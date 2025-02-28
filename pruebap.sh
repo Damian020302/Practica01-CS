@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Verificar que se proporcione un dominio o IP como argumento
-# Para compilar se tiene que pasar "./prueba.sh domonio"
+# Para compilar se tiene que pasar "./pruebap.sh -domonio-"
 if [ -z "$1" ]; then
     echo "Uso: $0 <dominio o IP>"
     exit 1
@@ -57,15 +57,22 @@ echo "----------------------------------------" | tee -a "$salida"
 # Registros PTR (búsqueda inversa de IPs)
 echo "[Resolución inversa (PTR)]" | tee -a "$salida"
 for ip in $(host "$dominio" | awk '/has address/ {print $4}'); do
-    host "$ip" | tee -a "$salida"
+    ptr_record=$(host "$ip" 8.8.8.8 | grep -v "not found")  # Filtrar NXDOMAIN
+    if [ -n "$ptr_record" ]; then
+        echo "$ptr_record" | tee -a "$salida"
+    else
+        echo "No se encontró un registro PTR para $ip" | tee -a "$salida"
+    fi
 done
 echo "----------------------------------------" | tee -a "$salida"
 
 # Escaneo de puertos y servicios con Nmap
 echo "[Escaneo de Puertos con Nmap]" | tee -a "$salida"
 
-# Ejecutar Nmap con escaneo profundo (-Pn ignora ping, -sV detecta servicios, -O detecta SO)
-nmap -Pn -sV -O --traceroute "$dominio" | grep -E "open|PORT|SERVICE|STATE|OS details|Traceroute" | tee -a "$salida"
+# Ejecutar Nmap con escaneo mejorado para detectar el sistema operativo
+nmap -Pn -sV -O --osscan-guess --reason -p- -f --traceroute "$dominio" | \
+grep -E "open|closed|filtered|PORT|SERVICE|STATE|OS details|Traceroute" | tee -a "$salida"
+
 echo "----------------------------------------" | tee -a "$salida"
 
 # Instrucción para monitoreo con EtherApe (requiere ejecución manual)
