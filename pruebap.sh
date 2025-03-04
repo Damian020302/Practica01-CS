@@ -33,7 +33,7 @@ echo "----------------------------------------" | tee -a "$salida"
 
 # WHOIS - Obtener información del dominio (fechas, propietario, ubicación)
 echo "[WHOIS Information]" | tee -a "$salida"
-whois "$dominio" | grep -E "Domain Name|Registrar|Creation Date|Updated Date|Expiry Date|Registrant|Admin|Tech|Country|State|City|Street|Postal" | tee -a "$salida"
+whois "$dominio" | grep -vE "^%" | tee -a "$salida"
 echo "----------------------------------------" | tee -a "$salida"
 
 # Ping - Medir latencia y disponibilidad
@@ -46,8 +46,9 @@ echo "Pérdida de paquetes: $loss%" | tee -a "$salida"
 echo "----------------------------------------" | tee -a "$salida"
 
 # Nslookup - Obtener direcciones IPv4 e IPv6
-echo "[Registros DNS (Nslookup)]" | tee -a "$salida"
-nslookup "$dominio" | grep -E "Name|Address" | tee -a "$salida"
+echo "[Registros DNS (IPv4 e IPv6 - Nslookup)]" | tee -a "$salida"
+nslookup -query=A "$dominio" | grep -E "Name|Address" | tee -a "$salida" #IPv4
+nslookup -query=AAAA "$dominio" | grep -E "Name|Address" | tee -a "$salida" #IPv6
 echo "----------------------------------------" | tee -a "$salida"
 
 # Traceroute - Identificar la ruta y los saltos hacia el dominio
