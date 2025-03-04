@@ -10,6 +10,23 @@ fi
 dominio="$1"
 salida="reporte_${dominio}.txt"
 
+# Crear directorio para capturas de pantalla
+capturas_dir="capturas_${dominio}"
+mkdir -p "$capturas_dir"
+
+# Verificar que scrot esté instalado
+if ! command -v scrot &> /dev/null; then
+    echo "Instalando scrot para capturas de pantalla automáticas..."
+    sudo apt-get update && sudo apt-get install -y scrot
+fi
+
+# Lanzar EtherApe en segundo plano antes de iniciar los escaneos
+echo "Iniciando EtherApe para monitoreo visual de tráfico..."
+sudo etherape &
+etherape_pid=$!
+# Dar tiempo para que EtherApe arranque completamente
+sleep 3
+
 # Encabezado del reporte
 echo "Análisis de: $dominio" | tee "$salida"
 echo "----------------------------------------" | tee -a "$salida"
@@ -41,11 +58,24 @@ echo "----------------------------------------" | tee -a "$salida"
 # Enumeración de subdominios con Findomain y Subfinder
 echo "[Subdominios detectados]" | tee -a "$salida"
 
+# Tomar captura de EtherApe antes de enumeración de subdominios
+echo "Tomando captura de pantalla antes de enumeración de subdominios..."
+scrot -u "$capturas_dir/etherape_antes_subdominios.png"
+echo "Captura guardada en $capturas_dir/etherape_antes_subdominios.png" | tee -a "$salida"
+
 # Ejecutar findomain y filtrar resultados relevantes
 findomain -t "$dominio" | grep -vE "Error|Usage|Scanning" | tee -a "$salida"
 
+# Tomar captura durante el proceso
+scrot -u "$capturas_dir/etherape_durante_findomain.png"
+echo "Captura guardada en $capturas_dir/etherape_durante_findomain.png" | tee -a "$salida"
+
 # Ejecutar subfinder y evitar mensajes de uso
 subfinder -d "$dominio" | grep -vE "Usage|Enumerating" | tee -a "$salida"
+
+# Tomar captura después de subfinder
+scrot -u "$capturas_dir/etherape_despues_subdominios.png"
+echo "Captura guardada en $capturas_dir/etherape_despues_subdominios.png" | tee -a "$salida"
 
 echo "----------------------------------------" | tee -a "$salida"
 
@@ -69,18 +99,29 @@ echo "----------------------------------------" | tee -a "$salida"
 # Escaneo de puertos y servicios con Nmap
 echo "[Escaneo de Puertos con Nmap]" | tee -a "$salida"
 
-# Ejecutar Nmap con escaneo mejorado para detectar el sistema operativo
-nmap -Pn -sV -O --osscan-guess --reason -p- -f --traceroute "$dominio" | \
+# Tomar captura antes de Nmap
+echo "Tomando captura de EtherApe antes de Nmap..." | tee -a "$salida"
+scrot -u "$capturas_dir/etherape_antes_nmap.png"
+
+# Ejecutar Nmap con puertos limitados para evitar tiempos excesivos
+echo "Ejecutando escaneo Nmap (versión limitada para evitar bloqueos)..." | tee -a "$salida"
+nmap -Pn -sV --reason -p 1-1000 "$dominio" | \
 grep -E "open|closed|filtered|PORT|SERVICE|STATE|OS details|Traceroute" | tee -a "$salida"
 
+# Tomar captura después de Nmap
+scrot -u "$capturas_dir/etherape_despues_nmap.png"
+
 echo "----------------------------------------" | tee -a "$salida"
 
-# Instrucción para monitoreo con EtherApe (requiere ejecución manual)
+# Información sobre la monitorización con EtherApe
 echo "[Monitoreo con EtherApe]" | tee -a "$salida"
-echo "Ejecutar manualmente: sudo etherape &" | tee -a "$salida"
+echo "EtherApe ha estado ejecutándose con PID: $etherape_pid" | tee -a "$salida"
+echo "Las capturas de pantalla se guardaron en: $capturas_dir" | tee -a "$salida"
 echo "----------------------------------------" | tee -a "$salida"
+
+# Finalizar EtherApe automáticamente
+echo "Cerrando EtherApe..."
+kill $etherape_pid
 
 # Mensaje final
 echo "Análisis finalizado. Resultados guardados en $salida"
-
-
