@@ -95,7 +95,7 @@ echo "----------------------------------------" | tee -a "$salida"
 
 # Finalizar EtherApe automáticamente
 echo "Cerrando EtherApe..."
-kill $etherape_pid
+kill -2 $etherape_pid
 
 # Mensaje final
 echo "Análisis finalizado. Resultados guardados en $salida"
