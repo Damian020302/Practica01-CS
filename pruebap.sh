@@ -1,13 +1,21 @@
 #!/bin/bash
 
-# Verificar que se proporcione un dominio o IP como argumento
 # Para compilar se tiene que pasar "./pruebap.sh -domonio-"
+
+# Verificar que se proporcione un dominio o IP como argumento
 if [ -z "$1" ]; then
     echo "Uso: $0 <dominio o IP>"
     exit 1
 fi
 
 dominio="$1"
+
+# Verificar si el dominio existe usando host
+if ! host "$dominio" &>/dev/null; then
+    echo "Error: El dominio '$dominio' no existe o no tiene registros DNS válidos."
+    exit 1
+fi
+
 salida="reporte_${dominio}.txt"
 
 # Solicitar privilegios sudo al inicio
