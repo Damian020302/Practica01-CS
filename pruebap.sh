@@ -61,11 +61,20 @@ echo "----------------------------------------" | tee -a "$salida"
 # Enumeración de subdominios con Findomain y Subfinder
 echo "[Subdominios detectados]" | tee -a "$salida"
 
-# Ejecutar findomain y filtrar resultados relevantes
-findomain -t "$dominio" | grep -vE "Error|Usage|Scanning" | tee -a "$salida"
+# Crear un archivo temporal para almacenar subdominios
+subdomains_tmp=$(mktemp)
 
-# Ejecutar subfinder y evitar mensajes de uso
-subfinder -d "$dominio" | grep -vE "Usage|Enumerating" | tee -a "$salida"
+# Ejecutar findomain y guardar resultados únicos
+findomain -t "$dominio" | grep -vE "Error|Usage|Scanning" | tee "$subdomains_tmp"
+
+# Ejecutar subfinder y filtrar resultados que no estén en findomain
+subfinder -d "$dominio" | grep -vE "Usage|Enumerating" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
+
+# Agregar los resultados de findomain al reporte final
+cat "$subdomains_tmp" >> "$salida"
+
+# Eliminar archivo temporal
+rm "$subdomains_tmp"
 
 echo "----------------------------------------" | tee -a "$salida"
 
