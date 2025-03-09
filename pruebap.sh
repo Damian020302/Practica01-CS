@@ -35,7 +35,7 @@ echo "----------------------------------------" | tee -a "$salida"
 
 # WHOIS - Obtener información del dominio (fechas, propietario, ubicación)
 echo "[WHOIS Information]" | tee -a "$salida"
-whois "$dominio" | grep -vE "^%" | tee -a "$salida"
+whois "$dominio" | grep -vE "^(%|#|NOTICE|Terms of Use|Job finished|Good luck)" | tee -a "$salida"
 echo "----------------------------------------" | tee -a "$salida"
 
 # Ping - Medir latencia y disponibilidad
@@ -65,10 +65,10 @@ echo "[Subdominios detectados]" | tee -a "$salida"
 subdomains_tmp=$(mktemp)
 
 # Ejecutar findomain y guardar resultados únicos
-findomain -t "$dominio" | grep -vE "Error|Usage|Scanning" | tee "$subdomains_tmp"
+findomain -t "$dominio" | grep -vE "Error|Usage|Scanning|Searching in" | tee "$subdomains_tmp"
 
-# Ejecutar subfinder y filtrar resultados que no estén en findomain
-subfinder -d "$dominio" | grep -vE "Usage|Enumerating" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
+# Ejecutar subfinder y filtrar resultados no deseados
+subfinder -d "$dominio" | grep -vE "Usage|Enumerating|Searching in" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
 
 # Agregar los resultados de findomain al reporte final
 cat "$subdomains_tmp" >> "$salida"
