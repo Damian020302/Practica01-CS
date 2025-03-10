@@ -68,7 +68,10 @@ subdomains_tmp=$(mktemp)
 findomain -t "$dominio" | grep -vE "Error|Usage|Scanning|Searching in" | tee "$subdomains_tmp"
 
 # Ejecutar subfinder y filtrar resultados no deseados
-subfinder -d "$dominio" | grep -vE "Usage|Enumerating|Searching in" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
+subfinder -d "$dominio" | grep -vE "Error|Usage|Enumerating|Searching in" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
+
+# Ejecutar sublist3r y filtrar resultados no deseados
+sublist3r -d "$dominio" -v | grep -vE "Coded By|verbosity|Searching now in|Error|Usage|Enumerating|Searching in" | grep -Fxv -f "$subdomains_tmp" | tee -a "$salida"
 
 # Agregar los resultados de findomain al reporte final
 cat "$subdomains_tmp" >> "$salida"
@@ -77,6 +80,14 @@ cat "$subdomains_tmp" >> "$salida"
 rm "$subdomains_tmp"
 
 echo "----------------------------------------" | tee -a "$salida"
+
+# Dnsmap - Enumeración de subdominios basada en diccionarios
+echo "[DNSMAP - Subdominios Detectados]" | tee -a "$salida"
+
+# Ejecutar dnsmap para detectar subdominios y filtrar solo líneas útiles y evitar información innecesaria
+dnsmap -r "$dominio" | grep -vE "Starting|Finished|Scanning" | tee -a "$salida"
+
+echo "----------------------------------------" | tee -a "$salida"
 
 # Escaneo DNS con dnsrecon - Filtrar registros relevantes
 echo "[Escaneo DNS con dnsrecon]" | tee -a "$salida"
