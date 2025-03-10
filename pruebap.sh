@@ -85,7 +85,7 @@ echo "----------------------------------------" | tee -a "$salida"
 echo "[DNSMAP - Subdominios Detectados]" | tee -a "$salida"
 
 # Ejecutar dnsmap para detectar subdominios y filtrar solo líneas útiles y evitar información innecesaria
-dnsmap -r "$dominio" | grep -vE "Starting|Finished|Scanning" | tee -a "$salida"
+dnsmap "$dominio" | grep -vE "Starting|Finished|Scanning" | tee -a "$salida"
 
 echo "----------------------------------------" | tee -a "$salida"
 
