@@ -1,0 +1,1301 @@
+Análisis de: unam.mx
+----------------------------------------
+[WHOIS Information]
+
+Domain Name:       unam.mx
+
+Created On:        1989-03-31
+Expiration Date:   2025-03-30
+Last Updated On:   2024-03-27
+Registrar:         AKKY ONLINE SOLUTIONS, S.A. DE C.V.
+URL:               http://www.akky.mx
+Whois TCP URI:     whois.akky.mx
+Whois Web URL:     http://www.akky.mx/herramientas/whois.jsf
+
+Registrant:
+   Name:           UNAM
+   City:           Mexico
+   State:          Distrito Federal
+   Country:        Mexico
+
+Administrative Contact:
+   Name:           HECTOR BENITEZ PEREZ
+   City:           Mexico
+   State:          Ciudad de Mexico
+   Country:        Mexico
+
+Technical Contact:
+   Name:           ALEJANDRO CRUZ SANTOS
+   City:           Mexico
+   State:          Ciudad de Mexico
+   Country:        Mexico
+
+Billing Contact:
+   Name:           UNIDAD ADMINISTRATIVA DGTIC
+   City:           Mexico
+   State:          Ciudad de Mexico
+   Country:        Mexico
+
+Name Servers:
+   DNS:            ns3.unam.mx       132.248.108.215, 2001:1218:100:10a:108:0:0:215
+   DNS:            ns4.unam.mx       132.248.204.32, 2001:1218:403:203:204:0:0:32
+
+DNSSEC DS Records:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+[Prueba de conectividad (Ping)]
+PING unam.mx (132.248.166.19) 56(84) bytes of data.
+64 bytes from 132.248.166.19: icmp_seq=1 ttl=255 time=55.3 ms
+64 bytes from 132.248.166.19: icmp_seq=2 ttl=255 time=43.4 ms
+64 bytes from 132.248.166.19: icmp_seq=3 ttl=255 time=27.0 ms
+64 bytes from 132.248.166.19: icmp_seq=4 ttl=255 time=28.4 ms
+64 bytes from 132.248.166.19: icmp_seq=5 ttl=255 time=30.8 ms
+64 bytes from 132.248.166.19: icmp_seq=6 ttl=255 time=14.3 ms
+64 bytes from 132.248.166.19: icmp_seq=7 ttl=255 time=22.5 ms
+64 bytes from 132.248.166.19: icmp_seq=8 ttl=255 time=19.7 ms
+64 bytes from 132.248.166.19: icmp_seq=9 ttl=255 time=24.6 ms
+64 bytes from 132.248.166.19: icmp_seq=10 ttl=255 time=11.5 ms
+
+--- unam.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9076ms
+rtt min/avg/max/mdev = 11.472/27.739/55.273/12.489 ms
+Pérdida de paquetes: 0%
+----------------------------------------
+[Registros DNS (IPv4 e IPv6 - Nslookup)]
+Address:	10.0.2.3#53
+Name:	unam.mx
+Address: 132.248.166.20
+Name:	unam.mx
+Address: 132.248.166.17
+Name:	unam.mx
+Address: 132.248.166.19
+Name:	unam.mx
+Address: 132.248.166.18
+Address:	10.0.2.3#53
+Name:	unam.mx
+Address: 2001:1218:3000:180::17
+Name:	unam.mx
+Address: 2001:1218:3000:180::18
+Name:	unam.mx
+Address: 2001:1218:3000:180::19
+Name:	unam.mx
+Address: 2001:1218:3000:180::20
+----------------------------------------
+[TRACEROUTE (primeros 10 saltos)]
+traceroute to unam.mx (132.248.166.18), 30 hops max, 60 byte packets
+ 1  _gateway (10.0.2.2)  0.516 ms  0.582 ms  0.552 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+----------------------------------------
+[Subdominios detectados]
+www.distancia.acatlan.unam.mx
+registro-coas.acatlan.unam.mx
+webnom.dgp.unam.mx
+morfologia.enp.unam.mx
+coco.astroscu.unam.mx
+hiena.astroscu.unam.mx
+labvs.matem.unam.mx
+cerberos.acatlan.unam.mx
+av.arq.unam.mx
+ve9.astros-dist.unam.mx
+ecu.odonto.unam.mx
+ve70.arq-dist.unam.mx
+geografia.posgrado.unam.mx
+www.dgcch.unam.mx
+flight.acatlan.unam.mx
+lovelace.aragon.unam.mx
+lucia.astroscu.unam.mx
+www.juntadegobierno.unam.mx
+ve198.arq-dist.unam.mx
+parallax.astroscu.unam.mx
+teatro.filos.unam.mx
+www.academicacultura.unam.mx
+psicologia.enp.unam.mx
+algari.acatlan.unam.mx
+rmaa.astroscu.unam.mx
+biblioteca.fca.unam.mx
+recorecos.unam.mx
+www.antropologia.unam.mx
+my.acatlan.unam.mx
+gato.aragon.unam.mx
+aurora.astroscu.unam.mx
+condor-grid.lamod.unam.mx
+dgbacatlan.acatlan.unam.mx
+xi.acatlan.unam.mx
+gateway.aragon.unam.mx
+queonda.astroscu.unam.mx
+dgtic-dcv-cursos.dcaa.unam.mx
+alpha.acatlan.unam.mx
+cronos.acatlan.unam.mx
+www.aidiscongresos.unam.mx
+www.arquitectura.unam.mx
+investigacion.filos.unam.mx
+suelofono.geologia.unam.mx
+arwen.astroscu.unam.mx
+tesiunam.dgb.unam.mx
+ru.dgb.unam.mx
+dgapa.unam.mx
+www.mac.acatlan.unam.mx
+linze.aragon.unam.mx
+www.aragon.unam.mx
+cursosenlineadcb.ingenieria.unam.mx
+acidosistubular.unam.mx
+bigote.astroscu.unam.mx
+einstein.acatlan.unam.mx
+cta.aragon.unam.mx
+zapata.astroscu.unam.mx
+ceiich.bibliotecas.unam.mx
+beta.acatlan.unam.mx
+urlanda.astroscu.unam.mx
+wikifilos.galileo.filos.unam.mx
+www.amigosofunam.unam.mx
+biblio29.arq.unam.mx
+hub-arq-1.arq.unam.mx
+gargola.astroscu.unam.mx
+camaleon.acatlan.unam.mx
+ve96.antro-dist.unam.mx
+tigre.aragon.unam.mx
+alien.astroscu.unam.mx
+lambda.acatlan.unam.mx
+tramifes.aragon.unam.mx
+scorpius.astroscu.unam.mx
+ve112.arq-dist.unam.mx
+glengarry.astroscu.unam.mx
+x6s781ek.comunidad.unam.mx
+pepines.iib.unam.mx
+search-ebscohost-com.pbidi.unam.mx
+ineurobiologia.bibliotecas.unam.mx
+nieves.aragon.unam.mx
+atlante.astroscu.unam.mx
+clio.astroscu.unam.mx
+revistafiguras.acatlan.unam.mx
+seminariotransparencia.sdi.unam.mx
+exal2-srv6.ceide.unam.mx
+enp4.bibliotecas.unam.mx
+www.anfeca.unam.mx
+puma.aragon.unam.mx
+www.cicc.unam.mx
+digitalgeosciences.unam.mx
+www.alianza.unam.mx
+mail.astroscu.unam.mx
+delta.acatlan.unam.mx
+cedco.aragon.unam.mx
+aia2009.astrosen.unam.mx
+iagen.unam.mx
+www2.morelos.unam.mx
+galilea.acatlan.unam.mx
+zorba.acatlan.unam.mx
+arq.unam.mx
+ve161.arq-dist.unam.mx
+hito.radiopodcast.unam.mx
+mooc.cuaed.unam.mx
+www.aracnidos.unam.mx
+cosmos.astroscu.unam.mx
+plantasvasculares.fciencias.unam.mx
+atlas.atmosfera.unam.mx
+www.edumedis.fmposgrado.unam.mx
+lb1.arq-dist.unam.mx
+www.pceim.unam.mx
+tyche.acatlan.unam.mx
+correo.agendajuriquilla.unam.mx
+bincer.astroscu.unam.mx
+www.pepines.unam.mx
+www.lanirem.inb.unam.mx
+ve214.arq-dist.unam.mx
+hub-arq-2.arq.unam.mx
+cheyene.astroscu.unam.mx
+asignaturas.fca.unam.mx
+www.ad12mexico.unam.mx
+serpens.astroscu.unam.mx
+extranet.dgire.unam.mx
+unidadmicroscopia.facmed.unam.mx
+ve61.arq-dist.unam.mx
+acceso.astroscu.unam.mx
+interno.iiec.unam.mx
+elisa.matmor.unam.mx
+gacetacomunidad.cuautitlan.unam.mx
+mercurio.acatlan.unam.mx
+bengala.aragon.unam.mx
+araschnia.unam.mx
+bidi.arquitectura.unam.mx
+ase.unam.mx
+inmuno.facmed.unam.mx
+repositorio.acatlan.unam.mx
+veneno.acatlan.unam.mx
+gacetadigital.aragon.unam.mx
+gichk.comunidad.unam.mx
+pc1.politicas.unam.mx
+www.patronato.unam.mx
+olympus.acatlan.unam.mx
+cursosenlinea.arq.unam.mx
+mvso.astroscu.unam.mx
+www.rodriguezaraujo.unam.mx
+www.prepa6.unam.mx
+www.resultadosdiagnostico.unam.mx
+ve76.astros-dist.unam.mx
+taller.iia.unam.mx
+morelos.unam.mx
+www.yeyecoa.acatlan.unam.mx
+sparc20.aragon.unam.mx
+trata.planeacion.unam.mx
+debatefeminista.cieg.unam.mx
+www.alasru.unam.mx
+www.crya.unam.mx
+efisica.enp.unam.mx
+registro.saddir.enp.unam.mx
+recif.unam.mx
+kalinga.acatlan.unam.mx
+ernot.astroscu.unam.mx
+olympia.astroscu.unam.mx
+sorjuana.astroscu.unam.mx
+www.finsar.unam.mx
+tutoria.sdi.unam.mx
+consulta3.suayedpoliticas.unam.mx
+rtsadmin.ier.unam.mx
+grupos.iingen.unam.mx
+www.transparencia.unam.mx
+premio.ajpani.fa.unam.mx
+urano.acatlan.unam.mx
+www.acopio.unam.mx
+ve10.arq-dist.unam.mx
+ve247.arq-dist.unam.mx
+siiuae.acatlan.unam.mx
+iagenedu.unam.mx
+viper.acatlan.unam.mx
+xenon.acatlan.unam.mx
+aniei.unam.mx
+www.ar.unam.mx
+siberiano.aragon.unam.mx
+tonatiuh.astroscu.unam.mx
+www.actualizacion.unam.mx
+ve67.arq-dist.unam.mx
+larepentina.arquitectura.unam.mx
+procion.astroscu.unam.mx
+www.editorial.enesmorelia.unam.mx
+encuentroseminarios.sdi.unam.mx
+hidrogeno.acatlan.unam.mx
+tedi.acatlan.unam.mx
+ve83.antro-dist.unam.mx
+mepsi.astroscu.unam.mx
+librosoa.unam.mx
+sip.dgp.unam.mx
+archivopdp.unam.mx
+haro.astroscu.unam.mx
+r2d2.astroscu.unam.mx
+multimediadigital.iib.unam.mx
+www.escolares.acatlan.unam.mx
+editorial.arq.unam.mx
+ve12.astros-dist.unam.mx
+zeus.acatlan.unam.mx
+vaxav.acatlan.unam.mx
+pachuco.astroscu.unam.mx
+tic.enes.unam.mx
+www.historiadelcomputo.unam.mx
+prepa6.unam.mx
+aniversarioserviciosocial.unam.mx
+bufis.astrosen.unam.mx
+andromeda.acatlan.unam.mx
+hercules.acatlan.unam.mx
+acceso.lamod.unam.mx
+bio.ingenieria.unam.mx
+elaborahd.unam.mx
+saludyenfermedad.historicas.unam.mx
+germanio.acatlan.unam.mx
+www.agenda.unam.mx
+aragon.unam.mx
+proyectos.sdi.unam.mx
+endiba.facmed.unam.mx
+historia.enp.unam.mx
+www.actuaria.acatlan.unam.mx
+alianza.unam.mx
+stella.astroscu.unam.mx
+sedu.unam.mx
+afrodita.acatlan.unam.mx
+cor.fciencias.unam.mx
+oxigeno.acatlan.unam.mx
+marsay.aragon.unam.mx
+farodemocratico.juridicas.unam.mx
+argon.acatlan.unam.mx
+demo-tienda.acatlan.unam.mx
+www.alemania.unam.mx
+oan-tonanzintla.astroscu.unam.mx
+www2.astroscu.unam.mx
+ve252.antro-dist.unam.mx
+teatro.enp.unam.mx
+igum.geofisica.unam.mx
+equidaddegenero.crim.unam.mx
+merlin.astroscu.unam.mx
+massalud.facmed.unam.mx
+licel.acatlan.unam.mx
+biblioteca.aragon.unam.mx
+tepuy.astroscu.unam.mx
+ladupo.igg.unam.mx
+puec.unam.mx
+tlacuilo.astroscu.unam.mx
+www.execum.unam.mx
+filtrado.seguridad.unam.mx
+dip.psicologia.unam.mx
+www.astroscu.unam.mx
+quimica.enp.unam.mx
+indiana.acatlan.unam.mx
+hubble.astroscu.unam.mx
+clinicadelsueno.facmed.unam.mx
+sso.lamod.unam.mx
+elecciones.acatlan.unam.mx
+revisa.dgae.unam.mx
+ve47.arq-dist.unam.mx
+remedios.astroscu.unam.mx
+sun1.aragon.unam.mx
+titan.astroscu.unam.mx
+sap.patrimonio.unam.mx
+clase.dgb.unam.mx
+email.comunidad.unam.mx
+www.artemasciencia.unam.mx
+dante.mascarones.unam.mx
+beneficios.pveu.unam.mx
+100constitucion.unam.mx
+acatlan.unam.mx
+huracan.aragon.unam.mx
+kadkod.aragon.unam.mx
+io.astroscu.unam.mx
+tratacurso.planeacion.unam.mx
+www.aiest.unam.mx
+soham.astroscu.unam.mx
+registro1.dgae.unam.mx
+www.medicinatradicionalmexicana.unam.mx
+tienda.acatlan.unam.mx
+www.alumno.unam.mx
+mail2.astroscu.unam.mx
+tycho.astroscu.unam.mx
+correo.acatlan.unam.mx
+www.ru.fmposgrado.unam.mx
+galileo.astroscu.unam.mx
+inscripciones.idiomas.fca.unam.mx
+www.dgsm.unam.mx
+portalpagos.patronato.unam.mx
+cneer.ier.unam.mx
+comite-etica.astro.unam.mx
+lb1.astros-dist.unam.mx
+computo4.astroscu.unam.mx
+cascabel.astrosen.unam.mx
+regexmarkup.biblat.unam.mx
+licantropia.astroscu.unam.mx
+m51.astroscu.unam.mx
+supco.astroscu.unam.mx
+abassi.astrosen.unam.mx
+enallterm.unam.mx
+planesdeestudio.fa.unam.mx
+literatura.unam.mx
+escolares.siae.facmed.unam.mx
+aulazoom.cepe.unam.mx
+revistardp.aragon.unam.mx
+direc.astroscu.unam.mx
+info.acatlan.unam.mx
+fisica.enp.unam.mx
+radon.acatlan.unam.mx
+ocelote.aragon.unam.mx
+reine.arq.unam.mx
+nas.astroscu.unam.mx
+ve74.arq-dist.unam.mx
+jornadasacademicas.inb.unam.mx
+estadisticas.let.iiec.unam.mx
+www.ingles.acatlan.unam.mx
+ve122.arq-dist.unam.mx
+arquipedia.arq.unam.mx
+tlahuili.astroscu.unam.mx
+ny.acatlan.unam.mx
+ve182.arq-dist.unam.mx
+soledad.astroscu.unam.mx
+podcast.ier.unam.mx
+umdi-juriquilla.fciencias.unam.mx
+ac-uam.unam.mx
+minos.acatlan.unam.mx
+cometa.astroscu.unam.mx
+catt.astro.unam.mx
+servidor2.aragon.unam.mx
+extermin92.astroscu.unam.mx
+dianoia.filosoficas.unam.mx
+gw-tr-astroscu.astroscu.unam.mx
+bnm.iib.unam.mx
+beneficios.pveaju.unam.mx
+www.nano.unam.mx
+bdjc.iia.unam.mx
+odontologiapediatrica.enes.unam.mx
+batichica.astroscu.unam.mx
+keops.astroscu.unam.mx
+fantiguodigital.dgb.unam.mx
+arte.unam.mx
+matematicas.enp.unam.mx
+blogs.acatlan.unam.mx
+www.edugain.unam.mx
+prometeo.acatlan.unam.mx
+aulas.iiec.unam.mx
+www.mucaroma.unam.mx
+bibliotecas.tic.unam.mx
+pem.facmed.unam.mx
+www.pame.unam.mx
+revision.ingenieria.unam.mx
+gamma.acatlan.unam.mx
+mail.fi-b.unam.mx
+constitucion-1824.juridicas.unam.mx
+datospersonales.unam.mx
+ariadne.astroscu.unam.mx
+museovirtual.filmoteca.unam.mx
+pruebas.educatic.unam.mx
+dante.tic.unam.mx
+www.acervosdigitales.unam.mx
+tyranna.astroscu.unam.mx
+rtposgrado.ier.unam.mx
+gauss.acatlan.unam.mx
+juno.acatlan.unam.mx
+boletin.geologia.unam.mx
+salon.sistop.unam.mx
+lacipi.humanidades.unam.mx
+www.ahunam.unam.mx
+ve125.antro-dist.unam.mx
+www.iberoconstitucional2017.unam.mx
+metadata.icmyl.unam.mx
+pedagogia.posgrado.unam.mx
+iccb2024.fciencias.unam.mx
+ulysses.astroscu.unam.mx
+coloquio.super.unam.mx
+lairn.fi-p.unam.mx
+www.computo.fisica.unam.mx
+www.die.unam.mx
+gatomontes.aragon.unam.mx
+comunidad.unam.mx
+www.biologia.enp.unam.mx
+agenda.unam.mx
+amsso.unam.mx
+ve15.astros-dist.unam.mx
+escolar.cepe.unam.mx
+mach0.astroscu.unam.mx
+jornada.unam.mx
+seminariocinep5.enp.unam.mx
+eed.juridicas.unam.mx
+www.agua.unam.mx
+alencuentrodelmanana.unam.mx
+fesarnote.aragon.unam.mx
+bufadora.astrosen.unam.mx
+orientafest.cuaieed.unam.mx
+ru.dgdc.unam.mx
+orel.astroscu.unam.mx
+dgi.filos.unam.mx
+dggr.cenapred.unam.mx
+www.01800abogral.unam.mx
+asteroide.acatlan.unam.mx
+cursosdistancia.acatlan.unam.mx
+fesacatlan21.acatlan.unam.mx
+publicaciones.ecologia.unam.mx
+cosmowiki.astroscu.unam.mx
+apolo.acatlan.unam.mx
+archaeometry.unam.mx
+alhambra.astroscu.unam.mx
+web.dgp.unam.mx
+mantis.astroscu.unam.mx
+mars.astroscu.unam.mx
+tollocan1.astroscu.unam.mx
+publicaciones.iiec.unam.mx
+poseidon.planeacion.unam.mx
+observatoriocostero.lipc.unam.mx
+evaluacion.educatic.unam.mx
+zeus.astroscu.unam.mx
+www.deportes.unam.mx
+traduccion.enallt.unam.mx
+web01.iingen.unam.mx
+www.estupresupuestocdmx.unam.mx
+eda.cch.unam.mx
+gw-astros.astroscu.unam.mx
+nburma.astroscu.unam.mx
+vulcano.astroscu.unam.mx
+astronube.astrosen.unam.mx
+citlali.astrosen.unam.mx
+www.tesis.fmposgrado.unam.mx
+vikinga.acatlan.unam.mx
+www.activosculturales.unam.mx
+ve123.arq-dist.unam.mx
+pegasus.astroscu.unam.mx
+generos.historicas.unam.mx
+ji.acatlan.unam.mx
+omicron.acatlan.unam.mx
+www.apps.unam.mx
+sipa.tic.unam.mx
+induccion.educatic.unam.mx
+lnatcg.unam.mx
+lb2.antro-dist.unam.mx
+api.aragon.unam.mx
+astrofisica.posgrado.unam.mx
+www.climaton.unam.mx
+www.priv-anon.unam.mx
+www.acervodigital.cab.unam.mx
+simusaii.quimica.unam.mx
+latinoamericanos.posgrado.unam.mx
+vulcano.acatlan.unam.mx
+cougar.aragon.unam.mx
+gutenberg.aragon.unam.mx
+galaxia.astroscu.unam.mx
+osiris.astroscu.unam.mx
+perseo.astroscu.unam.mx
+registrosua.acatlan.unam.mx
+enp1.unam.mx
+cio.enes.unam.mx
+www.ingenieria.acatlan.unam.mx
+nautilo.iib.unam.mx
+salaa.ingenieria.unam.mx
+interprepas.enp.unam.mx
+pegaso.acatlan.unam.mx
+babel.astrosen.unam.mx
+backdrop.iiec.unam.mx
+iris.acatlan.unam.mx
+uapa.cuaed.unam.mx
+uaj.unam.mx
+acervoleduc.filmoteca.unam.mx
+eros.acatlan.unam.mx
+athena.astroscu.unam.mx
+imelabsl3.aragon.unam.mx
+unamdos.astroscu.unam.mx
+bibliodgenp.bibliotecas.unam.mx
+apeiron.acatlan.unam.mx
+bizu.ssn.unam.mx
+www.proglocode.unam.mx
+economia.bibliotecas.unam.mx
+abraxas.astroscu.unam.mx
+cartogramias.unam.mx
+educacion.unapdi.unam.mx
+coloquioboschgimpera.iia.unam.mx
+app-pumabus.unam.mx
+u6035.aragon.unam.mx
+apps.musica.unam.mx
+ocw.unam.mx
+ae.filos.unam.mx
+pampas.aragon.unam.mx
+libra.astroscu.unam.mx
+alad.enallt.unam.mx
+indico.nucleares.unam.mx
+bibliofes1.zaragoza.unam.mx
+www.xn--fsica-zsa.unam.mx
+ratir.astroscu.unam.mx
+www.ries.universia.unam.mx
+lnadcg.unam.mx
+ponderosa.acatlan.unam.mx
+mooc.unam.mx
+draco.astroscu.unam.mx
+nereida.astroscu.unam.mx
+potemkin.astroscu.unam.mx
+www.enterate.unam.mx
+decires.cepe.unam.mx
+escolares.feno.unam.mx
+serfun.aragon.unam.mx
+www.60actividadesacademicascu.unam.mx
+pandora.acatlan.unam.mx
+www.amjb.unam.mx
+orientacion-vocacional.quimica.unam.mx
+dsp.facmed.unam.mx
+ead.acatlan.unam.mx
+io.acatlan.unam.mx
+ambiental.unam.mx
+extermin96.astroscu.unam.mx
+querube.astroscu.unam.mx
+labico504.aragon.unam.mx
+lvm-dap.astroscu.unam.mx
+chu2023.astrosen.unam.mx
+www.ceted.acatlan.unam.mx
+www.actualizacioncorreo.unam.mx
+danielo.astroscu.unam.mx
+tigrina.aragon.unam.mx
+atenea.acatlan.unam.mx
+geminga.astroscu.unam.mx
+buques.cic.unam.mx
+exli-iztacala.unam.mx
+ve128.arq-dist.unam.mx
+aldebaran.astroscu.unam.mx
+cciqs.unam.mx
+sisa.juridicas.unam.mx
+europa.acatlan.unam.mx
+arquitectura.unam.mx
+afrodita.astroscu.unam.mx
+correo.arq.unam.mx
+univax.astroscu.unam.mx
+educacioncontinua.fmvz.unam.mx
+www.cuadernospoliticos.unam.mx
+genero.ecologia.unam.mx
+ac-uacm.unam.mx
+andromeda.astroscu.unam.mx
+www.congreso.unam.mx
+sge.ceiich.unam.mx
+casiopea.astroscu.unam.mx
+rayenari.geofisica.unam.mx
+colegiodefilosofia.filos.unam.mx
+www.evaluacion.fmposgrado.unam.mx
+agendaescolar.unam.mx
+pcic.posgrado.unam.mx
+posgrado.iztacala.unam.mx
+idiomas.acatlan.unam.mx
+deneb.astroscu.unam.mx
+creden.iiec.unam.mx
+encuestas.sociales.unam.mx
+biologia.enp.unam.mx
+pedregales.fciencias.unam.mx
+red.dgire.unam.mx
+alfabit.unam.mx
+apps.unam.mx
+hp-730.aragon.unam.mx
+jaguar.aragon.unam.mx
+kepler.astroscu.unam.mx
+produccion.siia.unam.mx
+www.100.unam.mx
+lobo.astroscu.unam.mx
+stephen.astroscu.unam.mx
+apps.derecho.unam.mx
+control.fi-b.unam.mx
+asofisprofis.unam.mx
+artesvisuales.unam.mx
+obelisco.ciberseguridad.unam.mx
+correo.arte.unam.mx
+alimentacionysalud.unam.mx
+hazlotu.ier.unam.mx
+eventos.iingen.unam.mx
+callisto.acatlan.unam.mx
+orion.acatlan.unam.mx
+abassi2.astrosen.unam.mx
+octante.universum.unam.mx
+titanio.acatlan.unam.mx
+acheron.astroscu.unam.mx
+alcyone.astrosen.unam.mx
+www.revistasconstitucionales.unam.mx
+angie.acatlan.unam.mx
+atila.astroscu.unam.mx
+gatubela.astroscu.unam.mx
+heaven.astroscu.unam.mx
+ojs.unam.mx
+opinion.ingenieria.unam.mx
+enepup.acatlan.unam.mx
+atocatl.astroscu.unam.mx
+validacion.sic.unam.mx
+www.habitat.unam.mx
+ardilla.aragon.unam.mx
+biblio243.dgbiblio.unam.mx
+mooc.cuaieed.unam.mx
+amancaya.astroscu.unam.mx
+constanciasp8.enp.unam.mx
+bct.facmed.unam.mx
+canada.unam.mx
+alianza.bunam.unam.mx
+academiasancarlos.unam.mx
+www.alafec.unam.mx
+biblioteca-fes.aragon.unam.mx
+electronik.astroscu.unam.mx
+wikipam.astroscu.unam.mx
+titanic.astroscu.unam.mx
+asesoria.juridicas.unam.mx
+priv-anon.unam.mx
+www.lacanica.unam.mx
+apps.acatlan.unam.mx
+polux.acatlan.unam.mx
+hypatia.astroscu.unam.mx
+gdn.iib.unam.mx
+camelot.astroscu.unam.mx
+acc.comunidad.unam.mx
+www.ticometro.unam.mx
+ansys.unam.mx
+cedco2.aragon.unam.mx
+iota.acatlan.unam.mx
+pantera.aragon.unam.mx
+xxiiicna.astrosen.unam.mx
+estancia-qa.quimica.unam.mx
+ceela.aulasvirtuales.arq.unam.mx
+betelgeuse.acatlan.unam.mx
+frida.astroscu.unam.mx
+yeti.astroscu.unam.mx
+img.fca.unam.mx
+academicacultura.unam.mx
+acopio.unam.mx
+www.areunam.unam.mx
+educacioncontinuaents.unam.mx
+enep.aragon.unam.mx
+biblioarq.arq.unam.mx
+logos.acatlan.unam.mx
+ve110.antro-dist.unam.mx
+alfa.astroscu.unam.mx
+divulgacionqa.quimica.unam.mx
+profesordelenguas.cephcis.unam.mx
+newton.acatlan.unam.mx
+ve190.arq-dist.unam.mx
+fesarbook.aragon.unam.mx
+mediateca.enp5.unam.mx
+xanadu.ccg.unam.mx
+primeringreso0.dgae.unam.mx
+cripton.acatlan.unam.mx
+krusty.acatlan.unam.mx
+talio.acatlan.unam.mx
+titan.acatlan.unam.mx
+aracnidos.unam.mx
+pandora.astroscu.unam.mx
+ve17.arq-dist.unam.mx
+jao.astroscu.unam.mx
+escritores.cinemexicano.unam.mx
+humboldt250.filos.unam.mx
+suayed.fad.unam.mx
+extermin93.astroscu.unam.mx
+www.analesiie.unam.mx
+aprendomasplus.cuaed.unam.mx
+glpi.iiec.unam.mx
+koha.nucleares.unam.mx
+www.datospersonales.unam.mx
+www.asinea83.unam.mx
+triton.astroscu.unam.mx
+formatos.iiec.unam.mx
+biologia-ue.fciencias.unam.mx
+ve69.antro-dist.unam.mx
+secadosolarhueyapan.ier.unam.mx
+geociencias.unam.mx
+cuaed.unam.mx
+helio.acatlan.unam.mx
+montes.aragon.unam.mx
+consejotecnico.acatlan.unam.mx
+leopardo.aragon.unam.mx
+investigacion.fca.unam.mx
+huapango.astroscu.unam.mx
+exal2-srv4.ceide.unam.mx
+forde-ier.ier.unam.mx
+www.culturayrs.unam.mx
+ciaens.astrosen.unam.mx
+linuxera.astroscu.unam.mx
+recursoseducativos.unam.mx
+dgtic-dcv-formacion.dcaa.unam.mx
+feuris.fi-b.unam.mx
+triton.acatlan.unam.mx
+www.acidosistubular.unam.mx
+www.silcaa.unam.mx
+merlin.acatlan.unam.mx
+ve43.arq-dist.unam.mx
+3mdb.astro.unam.mx
+biblioteca.iiec.unam.mx
+sistinfo.fciencias.unam.mx
+sinap.fam.unam.mx
+orientacion.enp.unam.mx
+perseus.astroscu.unam.mx
+supernova.astroscu.unam.mx
+cidi.academico.unam.mx
+bromo.acatlan.unam.mx
+cobalto.acatlan.unam.mx
+infosec.aragon.unam.mx
+agave.astroscu.unam.mx
+centaurus.astroscu.unam.mx
+medfam.facmed.unam.mx
+liiee.enes.unam.mx
+venus.acatlan.unam.mx
+ve240.arq-dist.unam.mx
+ve252.arq-dist.unam.mx
+quetzalcoatl.astroscu.unam.mx
+tsekub.astroscu.unam.mx
+x4gl0.comunidad.unam.mx
+alemania.unam.mx
+guepardo.aragon.unam.mx
+hub-arq-3.arq.unam.mx
+camaleon.astroscu.unam.mx
+interna.astroscu.unam.mx
+ve246.arq-dist.unam.mx
+puemac.matem.unam.mx
+temas20.aragon.unam.mx
+autonomia90.dgb.unam.mx
+www.dgas.unam.mx
+ve209.astros-dist.unam.mx
+extermin97.astroscu.unam.mx
+cuaieed.unam.mx
+themis.acatlan.unam.mx
+archivos.arquitectura.unam.mx
+serenamente.iztacala.unam.mx
+lidie.enes.unam.mx
+100.unam.mx
+data.acatlan.unam.mx
+medusa.acatlan.unam.mx
+siglear.aragon.unam.mx
+papimes.fmvz.unam.mx
+research-ebsco-com.pbidi.unam.mx
+recorridos3d.cch.unam.mx
+36congresociss2019.unam.mx
+ve194.antro-dist.unam.mx
+www.archaeometry.unam.mx
+pam.astroscu.unam.mx
+plataformaeducativa.aragon.unam.mx
+www.artesvisuales.unam.mx
+spin.lamod.unam.mx
+digitalab-ssie.unam.mx
+hyadi.astroscu.unam.mx
+terradigitalis.geociencias.unam.mx
+pueis.cic.unam.mx
+clusterbcs.unam.mx
+phoebe.acatlan.unam.mx
+gw.acsi.unam.mx
+geofrey.aragon.unam.mx
+coyolxauhqui.astroscu.unam.mx
+proyectosnube.tic.unam.mx
+www.inflexiones.unam.mx
+rubidio.acatlan.unam.mx
+www.amc.unam.mx
+admin.astrosen.unam.mx
+siscdmx.ssn.unam.mx
+plandesarrollo.planeacion.unam.mx
+atlantis.acatlan.unam.mx
+eventoscta.aragon.unam.mx
+artemasciencia.unam.mx
+www.escolaresp9.enp.unam.mx
+tel.nucleares.unam.mx
+urania.astroscu.unam.mx
+cch-o.bibliotecas.unam.mx
+www.evaluacion.unam.mx
+indy.aragon.unam.mx
+centaury.acatlan.unam.mx
+pruebas.arquitectura.unam.mx
+iraf.astroscu.unam.mx
+matem.unam.mx
+pruebas.quimica.unam.mx
+pembu.dgenp.unam.mx
+ayudasismo.astronomia.unam.mx
+robotica.enp.unam.mx
+www.clasmac2024.unam.mx
+uapa.cuaieed.unam.mx
+ve143.arq-dist.unam.mx
+atocatl-hpc.astroscu.unam.mx
+luna.astroscu.unam.mx
+diadejardinesbotanicos.ib.unam.mx
+alice.nucleares.unam.mx
+mccuak.astroscu.unam.mx
+utopia.astroscu.unam.mx
+sarahuato.astroscu.unam.mx
+atenea.astrosen.unam.mx
+epsilon.acatlan.unam.mx
+chita.aragon.unam.mx
+bibgharo.astroscu.unam.mx
+www.cinig.ib.unam.mx
+posgrado.sep.unam.mx
+sibisu.acatlan.unam.mx
+informatica.aragon.unam.mx
+escolares.arq.unam.mx
+cronos.astroscu.unam.mx
+inflexiones.unam.mx
+www.100constitucion.unam.mx
+ingles.acatlan.unam.mx
+tv.ceiich.unam.mx
+astronomia.unam.mx
+avi.cuaed.unam.mx
+encuentro-ta.enp.unam.mx
+morfeo.acatlan.unam.mx
+digitalgeosciences.geociencias.unam.mx
+seminario.proglocode.unam.mx
+sistemas.acatlan.unam.mx
+nebulae.astroscu.unam.mx
+pix.nucleares.unam.mx
+unam.mx
+solti.astroscu.unam.mx
+phi.acatlan.unam.mx
+www.becarios.unam.mx
+esolmet.ier.unam.mx
+acervosdigitales.unam.mx
+ve61.antro-dist.unam.mx
+congresoeducacion2011.aragon.unam.mx
+biblio1.prepa1.unam.mx
+piecemo.sisal.unam.mx
+ve215.antro-dist.unam.mx
+pleyades.astroscu.unam.mx
+ru.odonto.unam.mx
+atai.astrosen.unam.mx
+jardinhra-cepe.unam.mx
+postal.fca.unam.mx
+abc.unam.mx
+behemoth.astroscu.unam.mx
+cdocencia.ibt.unam.mx
+proyectos.politicas.unam.mx
+kappa.acatlan.unam.mx
+ve241.arq-dist.unam.mx
+enlace.ingenieria.unam.mx
+cnyn.bibliotecas.unam.mx
+biblat.unam.mx
+enfermedadesdentales.rua.unam.mx
+orion.astroscu.unam.mx
+ru.fmposgrado.unam.mx
+vnoc.unam.mx
+ve8.astros-dist.unam.mx
+bajacalsun.astrosen.unam.mx
+www.planeacion.unam.mx
+cultura.unam.mx
+sociologiavagabunda.sociales.unam.mx
+consultoriofiscal.unam.mx
+ve137.arq-dist.unam.mx
+elecciones.arquitectura.unam.mx
+hydra.astroscu.unam.mx
+oncodermatologia.facmed.unam.mx
+www.paginaspersonales.unam.mx
+dice.sociales.unam.mx
+aragon.aragon.unam.mx
+hub-arq-4.arq.unam.mx
+galeria.fisica.unam.mx
+plutonio.acatlan.unam.mx
+ingenieria.aragon.unam.mx
+www.archivopdp.unam.mx
+coloquiojuancomas.iia.unam.mx
+siafweb.ib.unam.mx
+nenetzin.acatlan.unam.mx
+caifan.astroscu.unam.mx
+contaduria.fca.unam.mx
+ve132.antro-dist.unam.mx
+movilidad.ingenieria.unam.mx
+neon.acatlan.unam.mx
+osiris.acatlan.unam.mx
+ve1511.arq-acc.unam.mx
+goku.astroscu.unam.mx
+informes.astroscu.unam.mx
+itzamna.astroscu.unam.mx
+poseidon.acatlan.unam.mx
+quazar.acatlan.unam.mx
+ceiba.astrosen.unam.mx
+www.pincc.unam.mx
+macti.lamod.unam.mx
+lb1.antro-dist.unam.mx
+tigrillo.aragon.unam.mx
+calafia.astrosen.unam.mx
+ingles.facmed.unam.mx
+pandora.cicc.unam.mx
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+    
+
+Target ==> unam.mx
+
+
+
+lineb.unam.mx
+boletos.chopo.unam.mx
+feriadelempleo.unam.mx
+www.musica.unam.mx
+inb.unam.mx
+crim.unam.mx
+archivodesobediente.chopo.unam.mx
+biomedicas.unam.mx
+encit.unam.mx
+fad.unam.mx
+curriculopeg.unam.mx
+arboldelademocracia.cuaieed.unam.mx
+ecologia.unam.mx
+www.ptolomeo.unam.mx
+www.correo.dgsa.unam.mx
+www.descargacultura.unam.mx
+catedrabergman.unam.mx
+enesmorelia.unam.mx
+www.examendiagnostico.unam.mx
+aprender.unam.mx
+www.rector.unam.mx
+orienta.unam.mx
+encuesta.tic.unam.mx
+www.dgoserver.unam.mx
+datapincc.unam.mx
+ru.filologicas.unam.mx
+www.escolares.cchazc.unam.mx
+www.cloud.iim.unam.mx
+abogadogeneral.unam.mx
+auditoria.unam.mx
+enesjuriquilla.unam.mx
+enac.unam.mx
+fis.unam.mx
+archivos.juridicas.unam.mx
+revistas.unam.mx
+amyd.quimica.unam.mx
+tolsa.mineria.unam.mx
+ceide.unam.mx
+aulasvirtuales.arq.unam.mx
+dgelu.unam.mx
+pbidi.unam.mx
+nic.unam.mx
+descargacultura.unam.mx
+www.palaciomineria.unam.mx
+educenlinea.iztacala.unam.mx
+repositorio-uapa.cuaieed.unam.mx
+facturacion.facmed.unam.mx
+dgoae.unam.mx
+www.enac.unam.mx
+www.campus-virtual.mineria.unam.mx
+unaminternacional.unam.mx
+escolar1.unam.mx
+odonto.unam.mx
+facmed.unam.mx
+www.humanindex.unam.mx
+www.lineb.unam.mx
+libros.unam.mx
+www.feriadelempleo.unam.mx
+enacif.unam.mx
+distancia.unam.mx
+ciencia.unam.mx
+siafii.iingen.unam.mx
+fmvz.unam.mx
+politicas.unam.mx
+www.oferta.unam.mx
+mareografico.unam.mx
+pumas.iingen.unam.mx
+bcct.unam.mx
+ru.micisan.unam.mx
+www.orienta.unam.mx
+www.torreingenieria.unam.mx
+dcb.ingenieria.unam.mx
+devsys.iingen.unam.mx
+chicago.unam.mx
+www.escuelamldl.enesmorelia.unam.mx
+portalacademico.cch.unam.mx
+exploradores.nucleares.unam.mx
+www.distancia.unam.mx
+palaciomineria.unam.mx
+www.egresados.ingenieria.unam.mx
+cnyn.unam.mx
+humanindex.unam.mx
+dgoserver.unam.mx
+www.abogadogeneral.unam.mx
+quimica.unam.mx
+www.encit.unam.mx
+www.mineria.unam.mx
+musica.unam.mx
+cya.unam.mx
+biosensor.facmed.unam.mx
+iyari.fmvz.unam.mx
+geofisica.unam.mx
+comite-editorial.iingen.unam.mx
+www.aca.unam.mx
+sic.unam.mx
+ru.cultura.unam.mx
+egresados.ingenieria.unam.mx
+dgoae.servicios.unam.mx
+fcpys.unam.mx
+www.enacif.unam.mx
+internationalweek.unaminternacional.unam.mx
+mineria.unam.mx
+www.dgelu.unam.mx
+mundonano.unam.mx
+tucson.unam.mx
+diplomadoredessociales.unam.mx
+bq.facmed.unam.mx
+icf.unam.mx
+patronato.unam.mx
+lavis.unam.mx
+liigh.unam.mx
+sciesmex.unam.mx
+fca.unam.mx
+pveaju.unam.mx
+ciga.unam.mx
+correo.dgsa.unam.mx
+rector.unam.mx
+bolsadetrabajo.unam.mx
+www.dgsa-fs1.dgsa.unam.mx
+www.unaminternacional.unam.mx
+www.saber.unam.mx
+aca.unam.mx
+www.revistas.unam.mx
+torreingenieria.unam.mx
+credencialdigitalex.unam.mx
+www.fis.unam.mx
+casadellago.unam.mx
+icmyl.unam.mx
+escuelamldl.enesmorelia.unam.mx
+www.dgoae.unam.mx
+www.bolsadetrabajo.unam.mx
+campus-virtual.mineria.unam.mx
+www.archivodesobediente.chopo.unam.mx
+saber.unam.mx
+escolares.cchazc.unam.mx
+www.dgoae.servicios.unam.mx
+cepe.unam.mx
+www.nic.unam.mx
+www.sciesmex.unam.mx
+lcgej.unam.mx
+www.libros.unam.mx
+www.mundonano.unam.mx
+unamglobal.unam.mx
+dgsa-fs1.dgsa.unam.mx
+repositorio.cab.unam.mx
+climalopolis.unam.mx
+www.tolsa.mineria.unam.mx
+probdes.iiec.unam.mx
+bolsatrabajo.ingenieria.unam.mx
+oferta.unam.mx
+www.probdes.iiec.unam.mx
+www.catedrabergman.unam.mx
+www.mareografico.unam.mx
+www.encuesta.tic.unam.mx
+examendiagnostico.unam.mx
+muac.unam.mx
+www.imagenes.dgee.unam.mx
+www.cya.unam.mx
+www.casadellago.unam.mx
+www.dgee-evaluaenlinea.unam.mx
+
+Job finished in 60 seconds.
+
+Good luck Hax0r 💀!
+
+----------------------------------------
+[DNSMAP - Subdominios Detectados]
+dnsmap 0.36 - DNS Network Mapper
+
+[+] searching (sub)domains for unam.mx using built-in wordlist
+[+] using maximum random delay of 10 millisecond(s) between requests
+
+blog.unam.mx
+IP address #1: 132.247.174.18
+
+bq.unam.mx
+IP address #1: 132.248.55.100
+
+dc.unam.mx
+IP address #1: 132.247.70.123
+
+ed.unam.mx
+IP address #1: 132.248.48.16
+
+email.unam.mx
+IP address #1: 132.248.194.217
+
+eventos.unam.mx
+IP address #1: 132.247.22.53
+
+fa.unam.mx
+IP address #1: 132.248.43.17
+
+ib.unam.mx
+IP address #1: 132.248.13.110
+
+im.unam.mx
+IP address #1: 132.248.17.32
+
+mail.unam.mx
+IP address #1: 132.248.10.70
+
+mobile.unam.mx
+IP address #1: 66.70.184.167
+
+ns1.unam.mx
+IP address #1: 132.248.108.221
+
+ns2.unam.mx
+IP address #1: 132.248.204.25
+
+ns3.unam.mx
+IPv6 address #1: 2001:1218:100:10a:108::215
+
+ns3.unam.mx
+IP address #1: 132.248.108.215
+
+pi.unam.mx
+IP address #1: 132.247.22.53
+
+ri.unam.mx
+IP address #1: 132.247.110.50
+
+servidor.unam.mx
+IP address #1: 132.248.10.76
+
+tienda.unam.mx
+IP address #1: 132.247.106.37
+
+tv.unam.mx
+IP address #1: 35.215.118.238
+
+vpn.unam.mx
+IP address #1: 132.248.129.123
+
+ws.unam.mx
+IP address #1: 132.247.215.7
+
+www.unam.mx
+IPv6 address #1: 2606:4700::6811:752e
+IPv6 address #2: 2606:4700::6811:762e
+
+www.unam.mx
+IP address #1: 104.17.118.46
+IP address #2: 104.17.117.46
+
+www1.unam.mx
+IP address #1: 132.248.10.7
+
+[+] 25 (sub)domains and 27 IP address(es) found
+[+] completion time: 116 second(s)
+[Escaneo DNS con dnsrecon]
+[*] 	 SOA ns1.unam.mx 132.248.108.221
+[*] 	 NS ns3.unam.mx 132.248.108.215
+[*] 	 NS ns3.unam.mx 2001:1218:100:10a:108::215
+[*] 	 NS ns5.unam.mx 132.248.243.37
+[*] 	 NS ns2.unam.mx 132.248.204.25
+[*] 	 NS ns4.unam.mx 132.248.204.32
+[*] 	 NS ns4.unam.mx 2001:1218:403:203:204::32
+[*] 	 NS ns1.unam.mx 132.248.108.221
+[*] 	 MX unam-mx.mail.protection.outlook.com 52.101.194.19
+[*] 	 MX unam-mx.mail.protection.outlook.com 52.101.9.17
+[*] 	 MX unam-mx.mail.protection.outlook.com 52.101.10.2
+[*] 	 MX unam-mx.mail.protection.outlook.com 52.101.194.0
+[*] 	 MX unam-mx.mail.protection.outlook.com 2a01:111:f403:c903::
+[*] 	 MX unam-mx.mail.protection.outlook.com 2a01:111:f403:c903::1
+[*] 	 MX unam-mx.mail.protection.outlook.com 2a01:111:f403:f90c::
+[*] 	 MX unam-mx.mail.protection.outlook.com 2a01:111:f403:f909::
+[*] 	 A unam.mx 132.248.166.17
+[*] 	 A unam.mx 132.248.166.19
+[*] 	 A unam.mx 132.248.166.20
+[*] 	 A unam.mx 132.248.166.18
+[*] 	 AAAA unam.mx 2001:1218:3000:180::17
+[*] 	 AAAA unam.mx 2001:1218:3000:180::18
+[*] 	 AAAA unam.mx 2001:1218:3000:180::19
+[*] 	 AAAA unam.mx 2001:1218:3000:180::20
+[*] 	 TXT unam.mx v=spf1 ip4:132.247.28.137 ip4:132.247.190.11 ip4:132.248.10.70 ip4:132.248.10.100 ip4:132.248.165.142 ip4:132.248.165.143 ip4:132.248.165.144 ip4:132.248.165.145 ip4:132.248.165.146 ip4:132.248.165.149 ip4:132.248.165.150  ip4:132.248.165.151 ip4:132.248.165.152 ip4:132.248.165.153 ip4:132.248.165.154 ip4:132.248.10.3 ip4:132.248.10.4 include:spf.protection.outlook.com -all
+[*] 	 TXT _dmarc.unam.mx v=DMARC1; p=none; rua=mailto:rua_dmarc@unam.mx; ruf=mailto:reporterua_dmarc@unam.mx; fo=0:1;
+[*] Enumerating SRV Records
+[+] 	 SRV _sipfederationtls._tcp.unam.mx sipfed.online.lync.com 52.112.127.17 5061
+----------------------------------------
+[Resolución inversa (PTR)]
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+----------------------------------------
+[Escaneo de Puertos con Nmap]
+Ejecutando escaneo Nmap (versión limitada para evitar bloqueos)...
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE  REASON         VERSION
+80/tcp  open  http     syn-ack ttl 64 Apache httpd 2.4.51 ((Unix))
+443/tcp open  ssl/http syn-ack ttl 64 nginx 1.27.2
+----------------------------------------
+[Monitoreo con EtherApe]
+EtherApe ha estado ejecutándose con PID: 3729
+----------------------------------------
