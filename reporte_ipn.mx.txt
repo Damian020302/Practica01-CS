@@ -1,0 +1,1363 @@
+Análisis de: ipn.mx
+----------------------------------------
+[WHOIS Information]
+
+Domain Name:       ipn.mx
+
+Created On:        1995-04-30
+Expiration Date:   2025-04-29
+Last Updated On:   2024-04-26
+Registrar:         AKKY ONLINE SOLUTIONS, S.A. DE C.V.
+URL:               http://www.akky.mx
+Whois TCP URI:     whois.akky.mx
+Whois Web URL:     http://www.akky.mx/herramientas/whois.jsf
+
+Registrant:
+   Name:           Instituto Politecnico Nacional
+   City:           No hay informacion
+   State:          Distrito Federal
+   Country:        Mexico
+
+Administrative Contact:
+   Name:           Contacto NIC del IPN
+   City:           Mexico
+   State:          Distrito Federal
+   Country:        Mexico
+
+Technical Contact:
+   Name:           Departamento de Conectividad del IPN
+   City:           Mexico
+   State:          Distrito Federal
+   Country:        Mexico
+
+Billing Contact:
+   Name:           Contacto NIC del IPN
+   City:           Mexico
+   State:          Distrito Federal
+   Country:        Mexico
+
+Name Servers:
+   DNS:            dns2.ipn.mx       148.204.198.2
+   DNS:            dns3.ipn.mx       148.204.235.2
+   DNS:            dns1.ipn.mx       148.204.103.2
+
+DNSSEC DS Records:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+[Prueba de conectividad (Ping)]
+PING ipn.mx (20.64.80.120) 56(84) bytes of data.
+64 bytes from 20.64.80.120: icmp_seq=1 ttl=255 time=32.4 ms
+64 bytes from 20.64.80.120: icmp_seq=2 ttl=255 time=47.7 ms
+64 bytes from 20.64.80.120: icmp_seq=3 ttl=255 time=45.9 ms
+64 bytes from 20.64.80.120: icmp_seq=4 ttl=255 time=44.5 ms
+64 bytes from 20.64.80.120: icmp_seq=5 ttl=255 time=48.6 ms
+64 bytes from 20.64.80.120: icmp_seq=6 ttl=255 time=40.9 ms
+64 bytes from 20.64.80.120: icmp_seq=7 ttl=255 time=42.1 ms
+64 bytes from 20.64.80.120: icmp_seq=8 ttl=255 time=46.3 ms
+64 bytes from 20.64.80.120: icmp_seq=9 ttl=255 time=43.7 ms
+64 bytes from 20.64.80.120: icmp_seq=10 ttl=255 time=46.2 ms
+
+--- ipn.mx ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9388ms
+rtt min/avg/max/mdev = 32.421/43.841/48.589/4.427 ms
+Pérdida de paquetes: 0%
+----------------------------------------
+[Registros DNS (IPv4 e IPv6 - Nslookup)]
+Address:	10.0.2.3#53
+Name:	ipn.mx
+Address: 20.64.80.120
+Address:	10.0.2.3#53
+----------------------------------------
+[TRACEROUTE (primeros 10 saltos)]
+traceroute to ipn.mx (20.64.80.120), 30 hops max, 60 byte packets
+ 1  _gateway (10.0.2.2)  0.227 ms  0.306 ms  0.355 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+----------------------------------------
+[Subdominios detectados]
+publicaciones.ciecas.ipn.mx
+eventos.cenlexz.ipn.mx
+hub-innovacion.cic.ipn.mx
+raspberry.esfm.ipn.mx
+adistancia.ipn.mx
+cecdurango.ipn.mx
+www.cvdrtlaxcala.ipn.mx
+intranet.cectijuana.ipn.mx
+saes.upiicsa.ipn.mx
+www.rep-dse.ipn.mx
+encuestas.cenac.ipn.mx
+www.23.servidor.dev.ipn.mx
+expoprofesiografica.ipn.mx
+www.concursos-des.ipn.mx
+dev.cgfie.ipn.mx
+mpgct.ciecas.ipn.mx
+dcyc-dsw.ipn.mx
+www.cvdrcampeche.ipn.mx
+cvdrdurango.ipn.mx
+cvdrtlaxcala.ipn.mx
+soporte.dae.ipn.mx
+www.eventos.esimecu.ipn.mx
+training.plataforma.ipn.mx
+ciies.ipn.mx
+sge.upiicsa.ipn.mx
+sepi.escasto.ipn.mx
+csii.ipn.mx
+www.cientifica.esimez.ipn.mx
+www.posgradovirtual.escatep.ipn.mx
+rcs.cic.ipn.mx
+sustentable.cic.ipn.mx
+eventos.citedi.ipn.mx
+www.saes.cecyt1.ipn.mx
+cert.cic.ipn.mx
+www.prime.cic.ipn.mx
+www.sistemas.dae.ipn.mx
+www.bionica.upiita.ipn.mx
+virtual.upiiz.ipn.mx
+cecyt12.ipn.mx
+cursos.cenlexz.ipn.mx
+controller1-hipath-zacatenco.ipn.mx
+spi.ipn.mx
+valida.cenac.ipn.mx
+fw03.dae.ipn.mx
+www.cibatlaxcala.ipn.mx
+www.labcomputomovil.upiita.ipn.mx
+frances.ipn.mx
+labrym.cic.ipn.mx
+directorio.cicata.ipn.mx
+ciidirsinaloa.ipn.mx
+aulasvirtuales.utecv.esiatic.ipn.mx
+cgsi.ipn.mx
+cibatlaxcala.ipn.mx
+sdt-test.cic.ipn.mx
+www.sai.upiig.ipn.mx
+servicios.cenlexz.ipn.mx
+uteycv.escom.ipn.mx
+rdcb.cbg.ipn.mx
+www.plasmas-smf.cicataqro.ipn.mx
+sepi.esiatec.ipn.mx
+cicsma.ipn.mx
+www.inventario.dev.ipn.mx
+ceccajeme.ipn.mx
+cic.ipn.mx
+intranet.cicataaltamira.ipn.mx
+cysecweek2015.ciseg.cic.ipn.mx
+monitoreo-na.cic.ipn.mx
+www.oceanides.ipn.mx
+www.coordinacionredes.ipn.mx
+capacitacion.ipn.mx
+mail.cic.ipn.mx
+mcmc.ciecas.ipn.mx
+core.cic.ipn.mx
+posgradovirtual.escatep.ipn.mx
+saes.ipn.mx
+www.secadministracion.ipn.mx
+apps.cecyt7.ipn.mx
+cicimar.ipn.mx
+apimicrose.cic.ipn.mx
+academico.cecyt7.ipn.mx
+comunidadpolitecnicaacapulco.ipn.mx
+plataforma.cecoax.ipn.mx
+sappi.ipn.mx
+nexus.cenac.ipn.mx
+picis.cic.ipn.mx
+www.cicatamorelos.ipn.mx
+feriadellibro.ipn.mx
+sepi.upiita.ipn.mx
+sustentabilidad.ipn.mx
+www.9encuentro.cibatlaxcala.ipn.mx
+campusvirtual.cecyt18.ipn.mx
+ceprobi.ipn.mx
+cursos-ciencias.cicata.ipn.mx
+aulasxx1.cecyt9.ipn.mx
+tudonativo.ipn.mx
+www.ciidirdurango.ipn.mx
+diqp.esiqie.ipn.mx
+nsyp.aulapolivirtual.ipn.mx
+contratacionesconsolidadas.ipn.mx
+inventario.upev.ipn.mx
+celexvirtuales.escasto.ipn.mx
+pronostico.esiatic.ipn.mx
+www.sepi.esimetic.ipn.mx
+dae.ipn.mx
+cecumochis.ipn.mx
+subtec.upiicsa.ipn.mx
+www.sepi.upibi.ipn.mx
+www.sepi.upiita.ipn.mx
+posgrado.ipn.mx
+proyectosrym.cic.ipn.mx
+www.soporte.csii.ipn.mx
+cursos.ipn.mx
+feyss.dess.ipn.mx
+www.share.est.ipn.mx
+oic.ipn.mx
+ciidirdurango.ipn.mx
+coordinacionredes.ipn.mx
+sadleon.cecyt17.ipn.mx
+saes.cecyt20.ipn.mx
+cecyt8.ipn.mx
+qa.crm.cgsi.ipn.mx
+www.virtual.upiiz.ipn.mx
+tves.dev.ipn.mx
+www.dev.desarrolloweb.ipn.mx
+www.tulum.ciseg.cic.ipn.mx
+repamina.ipn.mx
+virtual.cidetec.ipn.mx
+cosiecgc.ipn.mx
+cda.ipn.mx
+dcyc.ipn.mx
+cecyt4.ipn.mx
+www.virtual.cicimar.ipn.mx
+ingles.ipn.mx
+ciiemad.ipn.mx
+cooperativa-demo.ipn.mx
+www.vertice.cic.ipn.mx
+tesla.cda.ipn.mx
+www.sepi.escatep.ipn.mx
+cultura.ipn.mx
+betatest.csii.ipn.mx
+rep-dse.ipn.mx
+lncae.cicata.ipn.mx
+www.certipn.ipn.mx
+www.consultari.ipn.mx
+www.cfie.ipn.mx
+ftp2.canalonce.ipn.mx
+summit.dfie.ipn.mx
+www.convocatorias80-100.ipn.mx
+www.sg.ipn.mx
+www.cert.ipn.mx
+csirt.cic.ipn.mx
+dch.ipn.mx
+coloquio.ipn.mx
+www.cmpl.ipn.mx
+udi.cgsi.ipn.mx
+www.saes.cicsst.ipn.mx
+www.especialidadmkt.escatep.ipn.mx
+www.tesla.cda.ipn.mx
+cursos.cic.ipn.mx
+www.lsm.cic.ipn.mx
+ciitapuebla.ipn.mx
+www.feriadellibro.ipn.mx
+www.cocnp.ipn.mx
+www.nanocentro.ipn.mx
+sistemas.cicimar.ipn.mx
+redes.cgfie.ipn.mx
+www.clusterveracruz.ipn.mx
+www.sistemaposgrado.escatep.ipn.mx
+www.sepi.escasto.ipn.mx
+semanacero.aulapolivirtual.ipn.mx
+caas.ipn.mx
+carreraipnoncek.ipn.mx
+sari.dsg.ipn.mx
+www.control.cvdrmochis.ipn.mx
+www.posgrado.ipn.mx
+ftp.canalonce.ipn.mx
+www.math.dcyc.ipn.mx
+plancton.cicimar.ipn.mx
+www.calmecac.ciseg.cic.ipn.mx
+tves.upev.ipn.mx
+cofaa.ipn.mx
+web.ciidiroaxaca.ipn.mx
+www.coriyp.ipn.mx
+cecoax.ipn.mx
+www.saes.upiicsa.ipn.mx
+www.ipnegociosback.ipn.mx
+www.aulasvirtuales.utecv.esiatic.ipn.mx
+docs.app.dae.ipn.mx
+www.cidetec.ipn.mx
+cecyt7.ipn.mx
+virtual.ciidirdurango.ipn.mx
+www.saes.esiatec.ipn.mx
+cvdrtampico.ipn.mx
+sco.canalonce.ipn.mx
+ciebt.ipn.mx
+cmpl.ipn.mx
+www.sapbsi.ipn.mx
+www.diqp.esiqie.ipn.mx
+www.sappi.ipn.mx
+www.cenac.ipn.mx
+ns.ciidiroaxaca.ipn.mx
+controller4-zac.ipn.mx
+www.catalogo.cicimar.ipn.mx
+www.sepicicsma.ipn.mx
+coatl.cecyt9.ipn.mx
+www.cert-ipn.ipn.mx
+cvdrmorelia.ipn.mx
+doctorado.citedi.ipn.mx
+www.picis.cic.ipn.mx
+conferencianobeljfriedman.ipn.mx
+www.robomec.cic.ipn.mx
+cv.cicataqro.ipn.mx
+centros.daes.ipn.mx
+ciidiroaxaca.ipn.mx
+comunidades.ipn.mx
+www.biblio-sepi.esimez.ipn.mx
+sepi.esiqie.ipn.mx
+www.saes.cecumochis.ipn.mx
+ventanillavirtual.cecyt7.ipn.mx
+poliincubate.ciebt.ipn.mx
+www.sicdoc.dev.ipn.mx
+coriyp.ipn.mx
+iarp.cic.ipn.mx
+aulasvirtuales.cicataqro.ipn.mx
+www.auth.dsi.ipn.mx
+publications.cicataleg.ipn.mx
+quetzal.cicataqro.ipn.mx
+www.cecmazatlan.ipn.mx
+www.cvdrmorelia.ipn.mx
+dev.auth.dsi.ipn.mx
+www.cda.ipn.mx
+crpltabasco.ipn.mx
+repo.infra.dae.ipn.mx
+observatoriosalud.upiita.ipn.mx
+www.esimecu.saescelex.ipn.mx
+rh.cgsi.ipn.mx
+9encuentro.cibatlaxcala.ipn.mx
+builds.infra.dae.ipn.mx
+www.saes.cecyt7.ipn.mx
+aulasvirtuales.pta.cicataleg.ipn.mx
+consultanuevacocnp.ipn.mx
+cpwi-buzon404.ipn.mx
+cecyt2.ipn.mx
+cicata.ipn.mx
+cecyt6.ipn.mx
+intranet.cecyt13.ipn.mx
+conveniosvinculados.ipn.mx
+www.27.servidor.dev.ipn.mx
+www.sseis.upiicsa.ipn.mx
+www.csii.ipn.mx
+www.aev.cgfie.ipn.mx
+polivirtual.ipn.mx
+nms.aulapolivirtual.ipn.mx
+cert.ipn.mx
+intranet.cocnp.ipn.mx
+pc-064-031.cic.ipn.mx
+sepi.upibi.ipn.mx
+nas.ciidiroaxaca.ipn.mx
+cfdi.cofaa.ipn.mx
+www.ceprobi.ipn.mx
+www.cecucampeche.ipn.mx
+www.valida.cenac.ipn.mx
+cenac.ipn.mx
+si.cibatlaxcala.ipn.mx
+matedu.cicata.ipn.mx
+www.e4-0.ipn.mx
+auth.dsi.ipn.mx
+www.sepi.esiatec.ipn.mx
+hela.dcyc.ipn.mx
+1congreso.cibatlaxcala.ipn.mx
+www.capacitacion.cic.ipn.mx
+cicataleg-publications.ipn.mx
+fw02.dae.ipn.mx
+iguias-cenam.esiqie.ipn.mx
+www.processus.upiiz.ipn.mx
+www.dems.ipn.mx
+www.evaluacion.cic.ipn.mx
+becas.cofaa.ipn.mx
+www.cicataaltamira.ipn.mx
+www.sepi.esiaz.ipn.mx
+sepi.upiicsa.ipn.mx
+avispaa.cic.ipn.mx
+ciecas.ipn.mx
+cursosdec.ipn.mx
+cvdrcampeche.ipn.mx
+www.calpulli.ciseg.cic.ipn.mx
+agrogenomicasinaloa.ipn.mx
+comite.codigodeconducta.ipn.mx
+calmecac.ciseg.cic.ipn.mx
+www.apps.dvdr.ipn.mx
+poi.ipn.mx
+tvu2.canalonce.ipn.mx
+cecyt5.ipn.mx
+conferencianikolaigrube.ipn.mx
+www.sepi.encb.ipn.mx
+sepi.ese.ipn.mx
+sepi.escatep.ipn.mx
+www.virtual.esiaz.ipn.mx
+sistemas.cecyt13.ipn.mx
+celex.cecyt3.ipn.mx
+xolotl.cicataqro.ipn.mx
+cfe.cic.ipn.mx
+www.redcalidadaire.upiita.ipn.mx
+dzs8.ipn.mx
+www.comunidad.cic.ipn.mx
+ciitec.ipn.mx
+www.soporte.cenac.ipn.mx
+ds.cgfie.ipn.mx
+fisedu.cicata.ipn.mx
+cnfdh.ipn.mx
+frankie.cda.ipn.mx
+contenidovirtual.ipn.mx
+cenlexz.ipn.mx
+www.innovacion.ipn.mx
+escolar.cibatlaxcala.ipn.mx
+www.iam.upiig.ipn.mx
+www.defensoria.ipn.mx
+www.sdt.cic.ipn.mx
+catedraoeictsi.ipn.mx
+www.saes.cecyt5.ipn.mx
+remilab.cicata.ipn.mx
+comunicaciondirecta.ipn.mx
+cursossep.ipn.mx
+www.cpwi.ipn.mx
+www.ingles.ipn.mx
+dzmanage.ipn.mx
+math.dcyc.ipn.mx
+www.isc.escom.ipn.mx
+apoyoalmamater.ipn.mx
+cec.ipn.mx
+www.memoria.ipn.mx
+www.ciitachihuahua.ipn.mx
+www.sepi.upiicsa.ipn.mx
+aulavirtual.cecyt18.ipn.mx
+www.eventos.cenlexz.ipn.mx
+cert-ipn.ipn.mx
+www.esimeazc.saescelex.ipn.mx
+www.rcs.cic.ipn.mx
+eventos.cicimar.ipn.mx
+27.servidor.upev.ipn.mx
+www.saes.cecutlax.ipn.mx
+apps.dvdr.ipn.mx
+examenes.cenlexz.ipn.mx
+www.its.cenac.ipn.mx
+www.dsw.ipn.mx
+www.ipnegociosmiddle.ipn.mx
+sg.ipn.mx
+cecyt19.ipn.mx
+uteycv.cics-sto.ipn.mx
+aprende.escom.ipn.mx
+cecyt15.ipn.mx
+cvdrcancun.ipn.mx
+lagarto.ipn.mx
+photothermal.cicata.ipn.mx
+intranet.ciidiroaxaca.ipn.mx
+investigacion.citedi.ipn.mx
+conferenciayannlecun.ipn.mx
+ciidirmich.ipn.mx
+www.observatoriosalud.upiita.ipn.mx
+virtual.esiaz.ipn.mx
+test.desarrolloweb.ipn.mx
+www.sip.ipn.mx
+alpha-nova.ipn.mx
+buscador.ipn.mx
+cecyt9.ipn.mx
+comunicacionsocial.ipn.mx
+www.spsp.ipn.mx
+www.sepi.esiatic.ipn.mx
+uiebth.ipn.mx
+cca.ipn.mx
+saes.cecyt10.ipn.mx
+virtual.cicimar.ipn.mx
+alerta.ipn.mx
+esenciayespacio.esiatec.ipn.mx
+www.sia.ipn.mx
+catalogo.cicimar.ipn.mx
+dgpi.escatep.ipn.mx
+www.dcyc.ipn.mx
+www.decanato.ipn.mx
+cvdrmochis.ipn.mx
+udi.cbg.ipn.mx
+cidetec.ipn.mx
+cvdrcajeme.ipn.mx
+cecyt11.ipn.mx
+sistemas.cluster.cenac.ipn.mx
+seacademica.ipn.mx
+www.sdt-test.cic.ipn.mx
+www.23.servidor.upev.ipn.mx
+nauthilus.bnct.ipn.mx
+www.canalonce.ipn.mx
+paltaforma.cecoax.ipn.mx
+cursos.cecyt7.ipn.mx
+cm-dcyc2.ipn.mx
+memoryalpha.cic.ipn.mx
+egeipi.ciecas.ipn.mx
+sistemas.ciidiroaxaca.ipn.mx
+encuentrolenguas.ipn.mx
+sistemas.dvdr.ipn.mx
+cecyt14.ipn.mx
+capacitacion.cic.ipn.mx
+sdt.cic.ipn.mx
+cotepabe.ipn.mx
+www.dgyce.des.ipn.mx
+www.conversus.ipn.mx
+foroeducatec.ipn.mx
+dev.cic.ipn.mx
+www.red.cic.ipn.mx
+www.cecuculiacan.ipn.mx
+cgfie.ipn.mx
+www.repamina.ipn.mx
+www.intra.cmpl.ipn.mx
+geofenomenos.esiatic.ipn.mx
+dcb.rsip.ipn.mx
+colaboracion.cgsi.ipn.mx
+monitoreo.cic.ipn.mx
+www.sepi.cics-sto.ipn.mx
+tvu3.canalonce.ipn.mx
+www.learning.cic.ipn.mx
+expoprofesiografica2024.ipn.mx
+deportes.ipn.mx
+investigacion.ipn.mx
+www.cysecweek2015.ciseg.cic.ipn.mx
+www.sse.ipn.mx
+matematicas.cecyt17.ipn.mx
+qa.cenac.ipn.mx
+biovirtual.encb.ipn.mx
+www.sepi.enmh.ipn.mx
+www.saes.cecyt4.ipn.mx
+core.ipn.mx
+master.infra.dae.ipn.mx
+www.dcb.rsip.ipn.mx
+ciseg.cic.ipn.mx
+deploy.infra.dae.ipn.mx
+www.almacenamiento.dev.ipn.mx
+multimedia.cicata.ipn.mx
+coleccion.cicimar.ipn.mx
+cvp.ipn.mx
+cocnp.ipn.mx
+ccs.ipn.mx
+cecyt1.ipn.mx
+aula4-0.ipn.mx
+cvdrtijuana.ipn.mx
+cicataaltamira.ipn.mx
+www.sustentabilidad.ipn.mx
+stick.cecyt18.ipn.mx
+www.estructura.upiig.ipn.mx
+cysec.cic.ipn.mx
+cloud.ciidiroaxaca.ipn.mx
+www.matematicas.cecyt17.ipn.mx
+www.cenlexz.ipn.mx
+api.cectijuana.ipn.mx
+www.sistemas.dvdr.ipn.mx
+cvdrmazatlan.ipn.mx
+erisc.cic.ipn.mx
+www.monitoreo-na.cic.ipn.mx
+www.ciidirsinaloa.ipn.mx
+nlp.cic.ipn.mx
+prestaciones.capitalhumano.ipn.mx
+www.seacademica.ipn.mx
+www.stick.cecyt18.ipn.mx
+fw-adm01.dae.ipn.mx
+sepi.esiatic.ipn.mx
+www.ciidirmich.ipn.mx
+www.test.desarrolloweb.ipn.mx
+cnies.ipn.mx
+www.ciitec.ipn.mx
+cpwi.ipn.mx
+redtelematicos.upiita.ipn.mx
+23.servidor.dev.ipn.mx
+delfin.cicimar.ipn.mx
+aulavirtual.cvdrtlaxcala.ipn.mx
+www.ciseg.cic.ipn.mx
+cys.cic.ipn.mx
+desarrollo.ciidiroaxaca.ipn.mx
+lnagua.cicata.ipn.mx
+saes.esiatec.ipn.mx
+coloquio.dfie.ipn.mx
+repositorio.cecyt7.ipn.mx
+misp.cenac.ipn.mx
+prime.cic.ipn.mx
+www.aplicaciones.escatep.ipn.mx
+its.cenac.ipn.mx
+www.riesis.cic.ipn.mx
+www.saes.cet1.ipn.mx
+dsw.ipn.mx
+www.modalidadmixta.est.ipn.mx
+www.coloquio.dfie.ipn.mx
+dems.ipn.mx
+cedicyt.ipn.mx
+lageo.ciidiroaxaca.ipn.mx
+www.sensorsocialciudadano.upiita.ipn.mx
+www.tutorias.ipn.mx
+share.est.ipn.mx
+cecyt18.ipn.mx
+cm-dcyc.ipn.mx
+www.talento.upiicsa.ipn.mx
+cecyt17.ipn.mx
+ia-dharma.cic.ipn.mx
+m.cultural.ipn.mx
+intra.cmpl.ipn.mx
+cvdrculiacan.ipn.mx
+genero.ipn.mx
+www.codigodeconducta.ipn.mx
+www.tves.upev.ipn.mx
+www.monitoreo.cic.ipn.mx
+cics-sto.ipn.mx
+www.inventario.upev.ipn.mx
+documentacion.ipn.mx
+sicae.cofaa.ipn.mx
+nanocentro.ipn.mx
+www.saes.ipn.mx
+www.cecutampico.ipn.mx
+api.cenac.ipn.mx
+codecalli.cic.ipn.mx
+www.27.servidor.upev.ipn.mx
+ciitachihuahua.ipn.mx
+certipn.ipn.mx
+sagitario.cic.ipn.mx
+www.dev.auth.dsi.ipn.mx
+sepi.encb.ipn.mx
+datosabiertos.ipn.mx
+aads.ipn.mx
+radio.ipn.mx
+red.cic.ipn.mx
+estructura.upiig.ipn.mx
+comunidad.cgfie.ipn.mx
+www.pronostico.esiatic.ipn.mx
+recorrido.esfm.ipn.mx
+secadministracion.ipn.mx
+sacg.ipn.mx
+www.cocendi.ipn.mx
+www.simposio.cenac.ipn.mx
+betatestint.csii.ipn.mx
+controller9-upiicsa.ipn.mx
+www.sepi.esiqie.ipn.mx
+reconstruccion.ipn.mx
+comunidad.cic.ipn.mx
+controller.ipn.mx
+intranet.cicata.ipn.mx
+urbandatalab.escom.ipn.mx
+landau.cda.ipn.mx
+cecyt10.ipn.mx
+tulum.ciseg.cic.ipn.mx
+www.formaciontutorias.ipn.mx
+vertice.cic.ipn.mx
+virtual.ciidirmich.ipn.mx
+literatura.ciidiroaxaca.ipn.mx
+udidb.ciidiroaxaca.ipn.mx
+www.cicimar.ipn.mx
+doctoradoisrm.ipn.mx
+www.cicata.ipn.mx
+28.servidor.dev.ipn.mx
+www.memoryalpha.cic.ipn.mx
+www.coloquio.ipn.mx
+master.app.dae.ipn.mx
+www.geofenomenos.esiatic.ipn.mx
+www.labsys.esiqie.ipn.mx
+www.cofaa.ipn.mx
+cloud.cic.ipn.mx
+www.reconstruccion.ipn.mx
+www.becarvoe.ipn.mx
+www.lagarto.ipn.mx
+consultari.ipn.mx
+especialidadmkt.escatep.ipn.mx
+www.ambienteescolar.ipn.mx
+cecyt3.ipn.mx
+www.siie.cgfie.ipn.mx
+www.urbandatalab.escom.ipn.mx
+www.investigacion.ipn.mx
+cicataqro.ipn.mx
+checador.cidetec.ipn.mx
+expo.cenac.ipn.mx
+witcom.upiita.ipn.mx
+innovacionrdd.dev.ipn.mx
+saes.cecyt19.ipn.mx
+azul.cicimar.ipn.mx
+www.doctorado-conservacion.ipn.mx
+www.dsi.ipn.mx
+www.polivirtual.ipn.mx
+cbg.ipn.mx
+www.revistafronterabiotecnologica.cibatlaxcala.ipn.mx
+www.datosabiertos.ipn.mx
+plataforma.cenac.ipn.mx
+www.dux.diet.ipn.mx
+investigacion.escatep.ipn.mx
+credencialegresado.ipn.mx
+www.ciiemad.ipn.mx
+www.poi.ipn.mx
+www.saes.cecuc.ipn.mx
+simposio.cenac.ipn.mx
+www.prestaciones.capitalhumano.ipn.mx
+www.aulavirtual.upiig.ipn.mx
+control.cvdrmochis.ipn.mx
+www.iguias-cenam.esiqie.ipn.mx
+www.sge.upiicsa.ipn.mx
+fised.cicata.ipn.mx
+mdcyt.ciecas.ipn.mx
+siap.ipn.mx
+www.dcc.cic.ipn.mx
+soporte-udi.cicata.ipn.mx
+www.contratacionesconsolidadas.ipn.mx
+www.labtra.cic.ipn.mx
+redcalidadaire.upiita.ipn.mx
+www.cecvirtual.ipn.mx
+buzon.ipn.mx
+www.saes.est.ipn.mx
+sgi.ciecas.ipn.mx
+gaceta.cecuallende.ipn.mx
+soporte.cenac.ipn.mx
+ciitaveracruz.ipn.mx
+www.sistemainstruccional.dev.ipn.mx
+www.foroeducatec.ipn.mx
+aclaracionalumno.ipn.mx
+git.cenac.ipn.mx
+www.comunidades.ipn.mx
+www.innovacionrdd.dev.ipn.mx
+stomas.cenlex.ipn.mx
+www.saes.cecyt9.ipn.mx
+www.te.ipn.mx
+documentos.cocnp.ipn.mx
+fw-adm02.dae.ipn.mx
+23.servidor.upev.ipn.mx
+defensoria.ipn.mx
+drf.ipn.mx
+campusvirtual.cecyt8.ipn.mx
+www.encuentrolenguas.ipn.mx
+aplicaciones.escatep.ipn.mx
+www.frances.ipn.mx
+www.saes.cecyt13.ipn.mx
+www.saes.cenlexsto.ipn.mx
+www.remai.ipn.mx
+www.code.dev.ipn.mx
+popocatzin.cic.ipn.mx
+sicdoc.dev.ipn.mx
+www.aulavirtual.cvdrtlaxcala.ipn.mx
+citedi.ipn.mx
+conferenciasantiagocalatrava.ipn.mx
+www.deportes.ipn.mx
+www.argus.cic.ipn.mx
+maestria.citedi.ipn.mx
+desarrollo.crm.cgsi.ipn.mx
+www.mip-rg.cic.ipn.mx
+sensorsocialciudadano.upiita.ipn.mx
+www.tves.dev.ipn.mx
+www.oic.ipn.mx
+www.spi.ipn.mx
+dzfrontera.ipn.mx
+talento.upiicsa.ipn.mx
+cet1.ipn.mx
+www.registros.cecyt7.ipn.mx
+cvdroaxaca.ipn.mx
+controlescolar.cicata.ipn.mx
+colecciones.ciidiroaxaca.ipn.mx
+concursos-des.ipn.mx
+www.aprende.escom.ipn.mx
+sepicicsma.ipn.mx
+www.udi.cbg.ipn.mx
+cinea2011.ipn.mx
+www.comisionderechos.ipn.mx
+sibe.cofaa.ipn.mx
+www.dch.ipn.mx
+www.uiebth.ipn.mx
+sepi.enmh.ipn.mx
+www.des.ipn.mx
+www.genero.ipn.mx
+www.esenciayespacio.esiatec.ipn.mx
+saes.cecyt8.ipn.mx
+www.cultura.ipn.mx
+www.dae.ipn.mx
+registros.cecyt7.ipn.mx
+www.radio.ipn.mx
+www.saes.cenlexz.ipn.mx
+cotebal.ipn.mx
+optimizacion.cic.ipn.mx
+dgyce.des.ipn.mx
+sistemainstruccional.dev.ipn.mx
+fw01.dae.ipn.mx
+www.mooc.escom.ipn.mx
+www.cursos.cenac.ipn.mx
+www.dfle.ipn.mx
+argus.cic.ipn.mx
+www.virtual.cics-sto.ipn.mx
+campusvirtual.cecyt17.ipn.mx
+carrera.cibatlaxcala.ipn.mx
+www.feyss.dess.ipn.mx
+lb01.infra.dae.ipn.mx
+www.investigacion.escatep.ipn.mx
+www.ciidiroaxaca.ipn.mx
+sai.upiig.ipn.mx
+www.conricyt.ipn.mx
+cosie.ipn.mx
+fw-adm.dae.ipn.mx
+megm.ciecas.ipn.mx
+aulavirtual.cmpl.ipn.mx
+decanato.ipn.mx
+cosecovi.ipn.mx
+www.sari.dsg.ipn.mx
+microse.cic.ipn.mx
+www.stomas.cenlex.ipn.mx
+www.servicios.cecuallende.ipn.mx
+www.cgv.ipn.mx
+cicatamorelos.ipn.mx
+tickets.est.ipn.mx
+cienciadedatos.cic.ipn.mx
+esimeazc.saescelex.ipn.mx
+desarrollo.aulapolivirtual.ipn.mx
+tvu1.canalonce.ipn.mx
+cursos.cenac.ipn.mx
+cecpapantla.ipn.mx
+cursos.cecyt10.ipn.mx
+sistemaposgrado.escatep.ipn.mx
+naicm.cic.ipn.mx
+sedesol.cic.ipn.mx
+www.citelc.upiita.ipn.mx
+www.crpltabasco.ipn.mx
+sepi.esm.ipn.mx
+doctorado-conservacion.ipn.mx
+www.cbg.ipn.mx
+www.recursos.cenac.ipn.mx
+utecv.cicataaltamira.ipn.mx
+sepi.servicios.esiqie.ipn.mx
+tutorias.ipn.mx
+algoritmia.escom.ipn.mx
+www.tudonativo.ipn.mx
+mip-rg.cic.ipn.mx
+system.cics-sto.ipn.mx
+conferenciaenlinea.ipn.mx
+www.sepi.ese.ipn.mx
+dzx8.ipn.mx
+www.saes.cecyt3.ipn.mx
+conversus.ipn.mx
+sseeis.esimecu.ipn.mx
+www.documentos.cocnp.ipn.mx
+www.envivo.ipn.mx
+calpulli.ciseg.cic.ipn.mx
+oceanides.cicimar.ipn.mx
+aads2.ipn.mx
+www.cursos.cic.ipn.mx
+almacenamiento.dev.ipn.mx
+servicios.ipn.mx
+www.28.servidor.dev.ipn.mx
+www.repo-ciie.cgfie.ipn.mx
+www.algoritmia.escom.ipn.mx
+www.sseeis.esimecu.ipn.mx
+dux.diet.ipn.mx
+www.saes.esiatic.ipn.mx
+proyectos.cic.ipn.mx
+www.drf.ipn.mx
+ci.cenac.ipn.mx
+saes.cet1.ipn.mx
+laboratorio.4.dev.ipn.mx
+lagarto.cic.ipn.mx
+www.virtual.cidetec.ipn.mx
+dfle.ipn.mx
+iam.upiig.ipn.mx
+tesis.bnct.ipn.mx
+www.contenido.ccs.ipn.mx
+des.ipn.mx
+riesis.cic.ipn.mx
+code.dev.ipn.mx
+cecyt16.ipn.mx
+revistafronterabiotecnologica.cibatlaxcala.ipn.mx
+www.redtelematicos.upiita.ipn.mx
+vinculacion.cic.ipn.mx
+www.virtual.ciidirmich.ipn.mx
+repositorio.cofaa.ipn.mx
+cocendi.ipn.mx
+sendfiles.cca.ipn.mx
+fw.infra.dae.ipn.mx
+magno-congreso.cic.ipn.mx
+consulta.cofaa.ipn.mx
+www.sepi.esm.ipn.mx
+www.biocomputacional.ipn.mx
+mirror.cenac.ipn.mx
+gamma.cic.ipn.mx
+dsi.ipn.mx
+sse.ipn.mx
+sepi.esiaz.ipn.mx
+sip.ipn.mx
+bolsadetrabajo.ipn.mx
+www.ciecas.ipn.mx
+www.laboratorio.4.dev.ipn.mx
+www.biblioteca.cicimar.ipn.mx
+comiteelectoral.ipn.mx
+27.servidor.dev.ipn.mx
+codigodeconducta.ipn.mx
+innovacion.ipn.mx
+correo.ipn.mx
+www.doctoradoisrm.ipn.mx
+crm.cgsi.ipn.mx
+piig-lab.cic.ipn.mx
+inventario.dev.ipn.mx
+fmsa.cca.ipn.mx
+envivo.ipn.mx
+www.summit.dfie.ipn.mx
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+    
+
+Target ==> ipn.mx
+
+
+
+saed.des.ipn.mx
+sistemas.upiicsa.ipn.mx
+proyectorazone.cicata.ipn.mx
+exmx11b.oncetv.ipn.mx
+app.dems.ipn.mx
+siti.upiicsa.ipn.mx
+www.monitor.upev.ipn.mx
+uteycv.escasto.ipn.mx
+www.politraining.upiita.ipn.mx
+www.sepi.servicios.esiqie.ipn.mx
+www.servicios.cenlexz.ipn.mx
+www.developers.upiicsa.ipn.mx
+biologiacomputacional.ipn.mx
+ebecas.ipn.mx
+www.aulapolivirtual2.ipn.mx
+www.polibits.cidetec.ipn.mx
+www.11tv.ipn.mx
+www.cicataqro.ipn.mx
+www.evaluacion.escasto.ipn.mx
+www.tramites.dp.ipn.mx
+www.siti.upiicsa.ipn.mx
+armsweb.dch.ipn.mx
+azul.bnct.ipn.mx
+tutores.escasto.ipn.mx
+streaming.upiita.ipn.mx
+busqueda.dirbibliotecas.ipn.mx
+www.saiee.ipn.mx
+pruebas.dfie.ipn.mx
+www.nom035.dch.ipn.mx
+saci.upiicsa.ipn.mx
+lssd.esimecu.ipn.mx
+efup.ipn.mx
+seguridad.ipn.mx
+sabe.ipn.mx
+www.uteycv.escasto.ipn.mx
+www.saes.esiqie.ipn.mx
+estadistico.dch.ipn.mx
+tramites.dp.ipn.mx
+autodiscover.oncetv.ipn.mx
+www.transmisionenlinea.ipn.mx
+www.riv.ipn.mx
+33.servidor.dev.ipn.mx
+www.saes.cecyt10.ipn.mx
+www.stem4all.upiita.ipn.mx
+intranet.dev.ipn.mx
+sacadem.esimecu.ipn.mx
+www.ia.escasto.ipn.mx
+www.saes.cecyt8.ipn.mx
+www.aplicaciones.abogadogeneral.ipn.mx
+www.oficinavirtual.capitalhumano.ipn.mx
+www.ebecas.ipn.mx
+www.labmovil.upiita.ipn.mx
+www.core.cic.ipn.mx
+www.seguridad.ipn.mx
+upiicsa.ipn.mx
+oficinavirtual.capitalhumano.ipn.mx
+www.cvdrmochis.ipn.mx
+www.cenlexust.ipn.mx
+saiee.ipn.mx
+evasega.escasto.ipn.mx
+www.esm.ipn.mx
+becarvoe.ipn.mx
+www.comunidad.escom.ipn.mx
+dnfc.dch.ipn.mx
+www.intranet.upev.ipn.mx
+constancias.dev.ipn.mx
+www.saes.cecyt12.ipn.mx
+www.siga.ipn.mx
+3coloquioems.ipn.mx
+www.dsapp.ipn.mx
+induccion.escasto.ipn.mx
+www.constancias.dev.ipn.mx
+www.srn.ipn.mx
+www.nms.aulapolivirtual.ipn.mx
+www.optimizacion.cic.ipn.mx
+www.saes.cecyt2.ipn.mx
+www.esime.azc.ipn.mx
+www.sigue.cecyt.11.ipn.mx
+www.4ciies2005.ipn.mx
+ups.dev.ipn.mx
+laboratorio.3.dev.ipn.mx
+imagenes.cicataqro.ipn.mx
+www.biblioteca.escasto.ipn.mx
+webconference.ipn.mx
+www.bncp.ipn.mx
+www.monitor.dev.ipn.mx
+laboratorio.5.dev.ipn.mx
+www.efup.ipn.mx
+www.olinia.ipn.mx
+www.udiservicios.escasto.ipn.mx
+tramites.egresados.ipn.mx
+www.aplicadores.ipn.mx
+rectorsummit2024.ipn.mx
+condican.upiita.ipn.mx
+www.uteycv.upiita.ipn.mx
+www.azul.bnct.ipn.mx
+exmx1a.oncetv.ipn.mx
+www.streaming.upiita.ipn.mx
+siiee.dch.ipn.mx
+vpn3.nube.ipn.mx
+aula4-0.laboratorio.dev.ipn.mx
+www.armsweb.dch.ipn.mx
+37.servidor.dev.ipn.mx
+encuestas.dch.ipn.mx
+www.pifi.ipn.mx
+archive.ipn.mx
+www.rectorsummit2024.ipn.mx
+www.aclaracionalumno.ipn.mx
+emailfilter.activedirectory.ipn.mx
+servicios.dch.ipn.mx
+bibliotecadigital.escasto.ipn.mx
+aplicaciones.abogadogeneral.ipn.mx
+www.saber.cic.ipn.mx
+www.saes.cecyt15.ipn.mx
+www.bnct.ipn.mx
+olinia.ipn.mx
+vpn2.nube.ipn.mx
+www.servicios.dch.ipn.mx
+www.abogadogeneral.ipn.mx
+aqd.ipn.mx
+ed.dch.ipn.mx
+www.bibliotecanacional.ipn.mx
+www.sige.esime.azc.ipn.mx
+www.avab7.ipn.mx
+www.ciclopista.ipn.mx
+saes.cecyt17.ipn.mx
+analytics.upev.ipn.mx
+www.saes.upiih.ipn.mx
+www.aulapolivirtual.ipn.mx
+www.boletin.upiita.ipn.mx
+www.nsyp.aulapolivirtual.ipn.mx
+login.www.bibliotecadigital.ipn.mx
+moocs.dev.ipn.mx
+www.mesadeayuda.upev.ipn.mx
+www.saes.cecyt18.ipn.mx
+www.mne.escasto.ipn.mx
+www.admision.ipn.mx
+mne.escasto.ipn.mx
+sibec.ipn.mx
+www.avispaa.cic.ipn.mx
+www.3coloquioems.ipn.mx
+transmisionenlinea.ipn.mx
+wwwsige.esime.azcapo.ipn.mx
+www.saes.cecyt6.ipn.mx
+www.mpme.cicata.ipn.mx
+www.laboratorio.5.dev.ipn.mx
+sg.cicata.ipn.mx
+www.siiee.dch.ipn.mx
+www.cienciasinaloa.ipn.mx
+matematicas.upiig.ipn.mx
+maestria.upiita.ipn.mx
+dsapp.ipn.mx
+www.auditorias.ipn.mx
+www.academico.cecyt7.ipn.mx
+www.saes.escom.ipn.mx
+www.cic.ipn.mx
+www.dnfc.dch.ipn.mx
+sse.dch.ipn.mx
+www.bibliotecadigital.escasto.ipn.mx
+www.cys.cic.ipn.mx
+www.saes.cecyt17.ipn.mx
+www.aula4-0.ipn.mx
+www.saes.esfm.ipn.mx
+www.condican.upiita.ipn.mx
+investigacion.escasto.ipn.mx
+www.contenidodsw.dcyc.ipn.mx
+mpme.cicata.ipn.mx
+tesis.ipn.mx
+www.33.servidor.upev.ipn.mx
+doi-org.www.bibliotecadigital.ipn.mx
+www.calidad.esimez.ipn.mx
+docente.4-0.ipn.mx
+www.sg.cicata.ipn.mx
+www.cecyt1.ipn.mx
+sepi.esimeazc.ipn.mx
+serviciosocialconstancias.ipn.mx
+www.intranet.dev.ipn.mx
+servicios.dae.ipn.mx
+vpn4.nube.ipn.mx
+auditorias.ipn.mx
+daul-bitacora.dev.ipn.mx
+bicentenario.ipn.mx
+autoriawcm.ipn.mx
+www.accesibilidad.ipn.mx
+accesibilidad.ipn.mx
+asistencia.dev.ipn.mx
+resultados.admision.ipn.mx
+www.upis.escasto.ipn.mx
+www.innovacioneduencb.ipn.mx
+upis.escasto.ipn.mx
+www.saes.upiip.ipn.mx
+pistadehielo.ipn.mx
+www.sibec.ipn.mx
+aulavirtual.cenlexsto.ipn.mx
+intranet.upev.ipn.mx
+mail.oncetv.ipn.mx
+www.upiita.ipn.mx
+www.cai.ipn.mx
+www.bitacoradeobra.ipn.mx
+vpn.nube.ipn.mx
+www.nas.dev.ipn.mx
+azul2.bnct.ipn.mx
+aulapolivirtual.ipn.mx
+registrocoursera.dev.ipn.mx
+monitor.upev.ipn.mx
+www.aprendisaje.ipn.mx
+cecyt13.ipn.mx
+cosie.dems.ipn.mx
+33.servidor.upev.ipn.mx
+polibits.cidetec.ipn.mx
+innovaxion.ipn.mx
+www.sabe.ipn.mx
+www.sepi.esimeazc.ipn.mx
+www.investigacion.escasto.ipn.mx
+monitor.dev.ipn.mx
+saber.cic.ipn.mx
+intra.sepi.escasto.ipn.mx
+ia.escasto.ipn.mx
+sigei.ipn.mx
+www.innovaxion.ipn.mx
+www.ventanillavirtual.cecyt7.ipn.mx
+cscog.cic.ipn.mx
+www.saes.upiiz.ipn.mx
+www.alumnosenlaciencia.ipn.mx
+www.75aniversario.ipn.mx
+www.busqueda.dirbibliotecas.ipn.mx
+www.sse.dch.ipn.mx
+www.tickets.est.ipn.mx
+abogadogeneral.ipn.mx
+www.examenes.cenlexz.ipn.mx
+www.pruebas.dfie.ipn.mx
+siiee.ipn.mx
+www.estadistico.dch.ipn.mx
+admision.ipn.mx
+www.registro.des.ipn.mx
+analytics.dev.ipn.mx
+www.proyectorazone.cicata.ipn.mx
+evaluacion.escasto.ipn.mx
+www.becasposgrado.ipn.mx
+www.siiee.ipn.mx
+becasposgrado.ipn.mx
+www.induccion.escasto.ipn.mx
+www.apoyoalmamater.ipn.mx
+saes.cecyt16.ipn.mx
+www.37.servidor.dev.ipn.mx
+www.academic.ipn.mx
+aulapolivirtual2.ipn.mx
+ciclopista.ipn.mx
+appliedmath.ipn.mx
+www.encuestas.dch.ipn.mx
+www.esimez.ipn.mx
+www.autoriawcm.ipn.mx
+www.tesis.ipn.mx
+www.repositoriodigital.ipn.mx
+registro.des.ipn.mx
+moocs.studio.dev.ipn.mx
+www.mail.oncetv.ipn.mx
+www.evasega.escasto.ipn.mx
+www.saed.des.ipn.mx
+www.examenentrenamiento.ipn.mx
+www.saci.upiicsa.ipn.mx
+www.pistadehielo.ipn.mx
+www.registrocoursera.dev.ipn.mx
+saes.upiih.ipn.mx
+canalonce.ipn.mx
+www.sigei.ipn.mx
+itzamna.bnct.ipn.mx
+www.ipn.mx
+www.saes.cicsma.ipn.mx
+web.www.sigue.cecu.allende.ipn.mx
+purgatorio.activedirectory.ipn.mx
+srn.ipn.mx
+www.saes.cecyt19.ipn.mx
+cai.ipn.mx
+nom035.dch.ipn.mx
+www.sistemas.upiiz.ipn.mx
+www.saes.esimeazc.ipn.mx
+www.33.servidor.dev.ipn.mx
+www.saes.cecyt16.ipn.mx
+www.ups.dev.ipn.mx
+saes.cecyt18.ipn.mx
+autodiscover.ipn.mx
+bibliotecanacional.ipn.mx
+www.bachilleratoenlinea.ipn.mx
+www.alpha-nova.ipn.mx
+www.11encuentro.ipn.mx
+www.tutores.escasto.ipn.mx
+www.alacachicachiporra.ipn.mx
+www.saes.escatep.ipn.mx
+biblioteca.escasto.ipn.mx
+www.sistemas.upiicsa.ipn.mx
+www.ed.dch.ipn.mx
+posgrados.esimecu.ipn.mx
+www.cecyt.10.ipn.mx
+www.saes.upiit.ipn.mx
+www.saes.enba.ipn.mx
+nas.dev.ipn.mx
+cienciasinaloa.ipn.mx
+www.cosie.dems.ipn.mx
+bancodetejidos.encb.ipn.mx
+aulasvirtuales.encb.ipn.mx
+www.intra.sepi.escasto.ipn.mx
+plataforma.cvdroaxaca.ipn.mx
+consultas.bnct.ipn.mx
+www.bibliotecadigital.ipn.mx
+pifi.ipn.mx
+ipn.mx
+www.10encuentrobiotecnologia.ipn.mx
+www.sisae-siboltra.ipn.mx
+www.saes.esm.ipn.mx
+www.saes.cecyt14.ipn.mx
+www.app.dems.ipn.mx
+www.ava.ipn.mx
+autodiscover.canalonce.ipn.mx
+udiservicios.escasto.ipn.mx
+www.saes.cecyt11.ipn.mx
+qa.plataforma.ipn.mx
+www.consultas.bnct.ipn.mx
+w.admision.ipn.mx
+www.bicentenario.ipn.mx
+examenentrenamiento.ipn.mx
+www.appliedmath.ipn.mx
+www.tramites.egresados.ipn.mx
+
+Job finished in 33 seconds.
+
+Good luck Hax0r 💀!
+
+----------------------------------------
+[DNSMAP - Subdominios Detectados]
+dnsmap 0.36 - DNS Network Mapper
+
+[+] searching (sub)domains for ipn.mx using built-in wordlist
+[+] using maximum random delay of 10 millisecond(s) between requests
+
+backup.ipn.mx
+IP address #1: 148.204.189.219
+
+controller.ipn.mx
+IP address #1: 10.204.15.5
+[+] warning: internal IP address disclosed
+IP address #2: 10.204.15.65
+[+] warning: internal IP address disclosed
+IP address #3: 148.204.150.189
+IP address #4: 148.204.150.187
+IP address #5: 148.204.252.251
+IP address #6: 148.204.252.250
+IP address #7: 10.204.15.68
+[+] warning: internal IP address disclosed
+IP address #8: 10.204.15.4
+[+] warning: internal IP address disclosed
+IP address #9: 10.204.15.67
+[+] warning: internal IP address disclosed
+IP address #10: 148.204.2.251
+IP address #11: 148.204.150.188
+IP address #12: 10.200.3.252
+[+] warning: internal IP address disclosed
+IP address #13: 10.204.15.6
+[+] warning: internal IP address disclosed
+IP address #14: 148.204.2.253
+IP address #15: 10.204.15.66
+[+] warning: internal IP address disclosed
+
+home.ipn.mx
+IP address #1: 148.204.103.231
+
+imap.ipn.mx
+IP address #1: 148.204.103.190
+
+mail.ipn.mx
+IP address #1: 148.204.103.9
+
+news.ipn.mx
+IP address #1: 148.204.102.90
+
+ntp.ipn.mx
+IP address #1: 148.204.179.157
+
+ok.ipn.mx
+IP address #1: 148.204.103.231
+
+p.ipn.mx
+IP address #1: 148.204.103.227
+
+pop.ipn.mx
+IP address #1: 148.204.103.190
+
+servicios.ipn.mx
+IP address #1: 148.204.103.35
+
+sg.ipn.mx
+IP address #1: 104.214.26.43
+
+smtp.ipn.mx
+IP address #1: 148.204.103.31
+
+soporte.ipn.mx
+IP address #1: 148.204.179.52
+
+virtual.ipn.mx
+IP address #1: 148.204.12.90
+
+www.ipn.mx
+IP address #1: 20.64.80.120
+
+[+] 16 (sub)domains and 30 IP address(es) found
+[+] 8 internal IP address(es) disclosed
+[+] completion time: 75 second(s)
+[Escaneo DNS con dnsrecon]
+[*] 	 SOA dns1.ipn.mx 148.204.103.2
+[*] 	 NS dns1.ipn.mx 148.204.103.2
+[*] 	 NS dns3.ipn.mx 148.204.235.2
+[*] 	 NS dns2.ipn.mx 148.204.198.2
+[*] 	 MX ipn-mx.mail.protection.outlook.com 52.101.194.13
+[*] 	 MX ipn-mx.mail.protection.outlook.com 52.101.9.14
+[*] 	 MX ipn-mx.mail.protection.outlook.com 52.101.41.24
+[*] 	 MX ipn-mx.mail.protection.outlook.com 52.101.194.17
+[*] 	 MX ipn-mx.mail.protection.outlook.com 2a01:111:f403:c91d::
+[*] 	 MX ipn-mx.mail.protection.outlook.com 2a01:111:f403:f912::
+[*] 	 MX ipn-mx.mail.protection.outlook.com 2a01:111:f403:f90b::
+[*] 	 MX ipn-mx.mail.protection.outlook.com 2a01:111:f403:f908::1
+[*] 	 A ipn.mx 20.64.80.120
+[*] 	 TXT ipn.mx v=spf1 ip4:148.204.103.31/32 include:spf.protection.outlook.com -all
+[*] 	 TXT ipn.mx 5LEGIzBjtK0WgL/wH3Rm0H/3QViSGfZqr0JyCp7dbNjwgq92KPvG/Ws3T7VVUVdfj4iMcWzlRhMDBm+FEHnvwQ==
+[*] 	 TXT ipn.mx MS=ms47790906
+[*] 	 TXT ipn.mx o6ymFg6zAtvtZWNIr5CHljZCZOl2JBs4w2KowjUovMflgCTld95BDKLO/WRaYRPVOTzTKU0YwKz5MzZXjLuk5Q==
+[*] 	 TXT ipn.mx cisco-ci-domain-verification=307996563beb52e5dc9afeb332f03fb418c000eac99844337394ad33b8a4280f
+[*] 	 TXT ipn.mx feko0n7ke278qe2vcgrbel7uus
+[*] 	 TXT ipn.mx google-site-verification=4f9Y7GzioIex65vzemp0YQivTmv4dCPNB49saWVceBk
+[*] 	 TXT ipn.mx j0rgi81b184ijt7ggt6c70t3ln
+[*] 	 TXT ipn.mx h23h1adb5pc8aq3032t0mhs0i5
+[*] 	 TXT _dmarc.ipn.mx v=DMARC1; p=reject; pct=100; rua=mailto:correo@ipn.mx; ruf=mailto:dmarc_forensic@ipn.mx; fo=1
+[*] Enumerating SRV Records
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 40.99.247.34 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 40.99.249.66 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 52.96.47.82 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 40.99.247.18 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 2603:1036:311:823::2 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 2603:1036:311:c03::2 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 2603:1036:311:822::2 443
+[+] 	 SRV _autodiscover._tcp.ipn.mx autodiscover-s.outlook.com 2603:1036:311:1002::2 443
+----------------------------------------
+[Resolución inversa (PTR)]
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+----------------------------------------
+[Escaneo de Puertos con Nmap]
+Ejecutando escaneo Nmap (versión limitada para evitar bloqueos)...
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE  REASON         VERSION
+80/tcp  open  http     syn-ack ttl 64 Microsoft Azure Application Gateway v2
+443/tcp open  ssl/http syn-ack ttl 64 Microsoft Azure Application Gateway v2
+----------------------------------------
+[Monitoreo con EtherApe]
+EtherApe ha estado ejecutándose con PID: 6053
+----------------------------------------
