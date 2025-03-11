@@ -1,0 +1,512 @@
+Análisis de: pemex.com
+----------------------------------------
+[WHOIS Information]
+   Domain Name: PEMEX.COM
+   Registry Domain ID: 231477_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.akky.mx
+   Registrar URL: http://www.akky.mx
+   Updated Date: 2025-01-07T16:57:45Z
+   Creation Date: 1995-06-22T04:00:00Z
+   Registry Expiry Date: 2026-06-21T04:00:00Z
+   Registrar: Akky Online Solutions, S.A. de C.V.
+   Registrar IANA ID: 1705
+   Registrar Abuse Contact Email: abuso@akky.mx
+   Registrar Abuse Contact Phone: +52 (01) 81 8864-2625
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A1-68.AKAM.NET
+   Name Server: A12-66.AKAM.NET
+   Name Server: A18-66.AKAM.NET
+   Name Server: A20-67.AKAM.NET
+   Name Server: A5-66.AKAM.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 39446 13 2 EABEADF50908BDB290C08C7230EEB988224FCD1C6205B0374172228BD0B74E23
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-11T18:17:52Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Domain Name: pemex.com
+Registry Domain ID: 231477_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.akky.mx
+Registrar URL: http://www.akky.mx
+Updated Date: 2025-01-07T10:57:45-0600
+Creation Date: 1995-06-21T22:00:00-0600
+Registrar Registration Expiration Date: 2026-06-20T00:00:00-0500
+Registrar: Akky Online Solutions S.A. de C.V.
+Registrar IANA ID: 1705
+Registrar Abuse Contact Email: abuse@akky.mx
+Registrar Abuse Contact Phone: +52.8188642625
+Reseller:
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: Redacted for Privacy (Redactado por Privacidad)
+Registrant Name: Redacted for Privacy (Redactado por Privacidad)
+Registrant Organization: 
+Registrant Street: Redacted for Privacy (Redactado por Privacidad)
+Registrant City: Redacted for Privacy (Redactado por Privacidad)
+Registrant State/Province: Ciudad de Mexico
+Registrant Postal Code: Redacted for Privacy (Redactado por Privacidad)
+Registrant Country: MX
+Registrant Phone: Redacted for Privacy (Redactado por Privacidad)
+Registrant Phone Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Email: https://www.akky.mx/WhoisContact
+Registry Admin ID: Redacted for Privacy (Redactado por Privacidad)
+Admin Email: https://www.akky.mx/WhoisContact
+Registry Tech ID: Redacted for Privacy (Redactado por Privacidad)
+Tech Email: https://www.akky.mx/WhoisContact
+Name Server: a1-68.akam.net
+Name Server: a12-66.akam.net
+Name Server: a18-66.akam.net
+Name Server: a20-67.akam.net
+Name Server: a5-66.akam.net
+DNSSEC: signed
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-11T12:17:00-0600 <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+[Prueba de conectividad (Ping)]
+PING pemex.com (200.23.91.20) 56(84) bytes of data.
+
+--- pemex.com ping statistics ---
+10 packets transmitted, 0 received, 100% packet loss, time 9213ms
+
+Pérdida de paquetes: 100%
+----------------------------------------
+[Registros DNS (IPv4 e IPv6 - Nslookup)]
+Address:	10.0.2.3#53
+Name:	pemex.com
+Address: 200.23.91.20
+Address:	10.0.2.3#53
+----------------------------------------
+[TRACEROUTE (primeros 10 saltos)]
+traceroute to pemex.com (200.23.91.20), 30 hops max, 60 byte packets
+ 1  _gateway (10.0.2.2)  0.262 ms  0.299 ms  0.373 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+----------------------------------------
+[Subdominios detectados]
+ptq.pemex.com
+ddiligencias.pemex.com
+dataroom-aiatg.pemex.com
+pep.pemex.com
+sasipa.ref.pemex.com
+limscpgs-d.pemex.com
+tramites.franquicia.pemex.com
+dipc.pemex.com
+vpnautmex.pemex.com
+pce.pemex.com
+www.siiamobile.pemex.com
+www.cp-mex1.pemex.com
+blog.pemex.com
+amcgdl.pemex.com
+vwtutappp008.un.pemex.com
+email.pemex.com
+gprecios.dcf.pemex.com
+eventos.pemex.com
+fsru2b.pemex.com
+www.pep.pemex.com
+pemexsal-qa.pemex.com
+un.pemex.com
+apps.pemex.com
+sgas.gas.pemex.com
+wgas.gas.pemex.com
+ref.pemex.com
+xmpp.pemex.com
+dcas.pemex.com
+sipcapep.pemex.com
+aprendizajevirtual.pemex.com
+servicios16.pep.pemex.com
+ri.pemex.com
+aulavirtual.pemex.com
+viajaconpemexnav.pemex.com
+siav.gslb.pemex.com
+www.ptq.pemex.com
+serviceprotect.pemex.com
+monitorservicionomina1.pemex.com
+bitacora.pemex.com
+xanpro.gas.pemex.com
+acreedores.ref.pemex.com
+www.dipc.pemex.com
+red.pemex.com
+convol.ref.pemex.com
+firma-cal.pemex.com
+ddi-ext-vhr.pemex.com
+gas.gas.pemex.com
+integraexpmx-t.pemex.com
+plogdr.pemex.com
+vozme.pemex.com
+avs.pemex.com
+video.pep.pemex.com
+vucoaappp002.ptq.pemex.com
+lwapv.pemex.com
+www.convolmiscelaneapruebas.pemex.com
+correopep.pep.pemex.com
+oic.ref.pemex.com
+sigere.dcf.pemex.com
+misequipos.pemex.com
+sipmx.pemex.com
+srmpro.gas.pemex.com
+internet.pep.pemex.com
+email.gas.pemex.com
+www2.pep.pemex.com
+www.atlasinfo.pemex.com
+xnpv.pemex.com
+ase3-digital-des.pemex.com
+lpcza03.ptq.pemex.com
+gas.pemex.com
+miipro.pemex.com
+servicios17.pep.pemex.com
+talentopep.pemex.com
+transparencia.pemex.com
+ase3-api-cloud-qa.pemex.com
+scadaneta.pemex.com
+integraexpmx.pemex.com
+pronosticodemanda.pemex.com
+sicori.webservices.pemex.com
+ase3-digital-qa.pemex.com
+fsru.pemex.com
+xanqas.gas.pemex.com
+cargaunp.pemex.com
+portalpriv.gas.pemex.com
+webmail.gas.pemex.com
+lync.pemex.com
+siavdes.pemex.com
+vpnautvhs.pemex.com
+www.asiste.pemex.com
+dns1.gslb.pemex.com
+im.ptq.pemex.com
+extranet.ref.pemex.com
+caaospep.pemex.com
+portal.gas.pemex.com
+indicadores.gpa.pemex.com
+www.ref.pemex.com
+wave.pemex.com
+www.atlasinfo1.pemex.com
+extranet.dcidp.pemex.com
+miidev.pemex.com
+viajaconpemex.pemex.com
+portalch.pemex.com
+xmii.gas.pemex.com
+dns2.gslb.pemex.com
+bovedacorporativo.dcf.pemex.com
+pemexpass.pemex.com
+lpcza04.ptq.pemex.com
+sena08.sm.pemex.com
+www.gas.pemex.com
+www.ri.pemex.com
+siavqa.pemex.com
+www.serviciosmedicos.pemex.com
+pepsedecluster5.sede.dpep.pep.pemex.com
+owa.pep.pemex.com
+comites.pemex.com
+t1.core.pemex.com
+www.suap.dca.pemex.com
+prebasesinv.pemex.com
+scadanet.pemex.com
+tv.pemex.com
+www3.pemex.com
+ventanilla.dcf.pemex.com
+www.janus.pemex.com
+vpnmex.pemex.com
+apiqa.gasbienestar.pemex.com
+www.subrogados.dca.pemex.com
+up.core.pemex.com
+www.sias.dca.pemex.com
+itsmdp.gas.pemex.com
+sirhn.pemex.com
+laemsd16.smx.pep.pemex.com
+sti.pemex.com
+suspro.gas.pemex.com
+indicadoresdcf.pemex.com
+oicpep.pemex.com
+ase3-api-cloud-des.pemex.com
+globalconnect.pemex.com
+dosbocas.pemex.com
+bugssup.gas.pemex.com
+scadamovil2.pemex.com
+proyectoscapital.pemex.com
+bdi.dcpe.pemex.com
+vwtutappp009.un.pemex.com
+ddi-ext-mex.pemex.com
+oficinadigitalplus.pemex.com
+visualkpi.pemex.com
+ftp.dcf.pemex.com
+rd.ptq.pemex.com
+www.cp-coa.pemex.com
+resguardoti.pemex.com
+www1.pep.pemex.com
+sufe.pemex.com
+www.extranetpep5.pemex.com
+vuxdbrhp01.pemex.com
+smed.pemex.com
+wcs.pemex.com
+vwreywebp102.un.pemex.com
+www.boveda.gas.pemex.com
+cwa.pemex.com
+ccaweb1.gas.pemex.com
+isap.pemex.com
+bdinet.pemex.com
+scikot.dcf.pemex.com
+api-qa.gasbienestar.pemex.com
+intranet.pemex.com
+extguba2.dcidp.pemex.com
+miicut.pemex.com
+scobs.pemex.com
+vdrpep.pemex.com
+vpnvhs.pemex.com
+lpcza05.ptq.pemex.com
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+    
+
+Target ==> pemex.com
+
+
+
+sal.pemex.com
+beo.pemex.com
+envivo.pemex.com
+congresofoss.pemex.com
+www2.pemex.com
+repositorionacionalmobile.pemex.com
+apicomercializadores.pemex.com
+correopmx.un.pemex.com
+api-cloud-des.pemex.com
+www.siah.pemex.com
+www.subrogados.pemex.com
+valide.pemex.com
+consejo.pemex.com
+api.pemex.com
+utilnet.bdi.pemex.com
+gasbienestar.pemex.com
+envivot.pemex.com
+securelogin.pemex.com
+cp-rey.pemex.com
+cesionderecho.pemex.com
+psl.pemex.com
+innovacion.pemex.com
+cp-mex2.pemex.com
+digital-qa.pemex.com
+sciep.pemex.com
+cp-car.pemex.com
+facturacion.gasbienestar.pemex.com
+cp-pzr.pemex.com
+repositorionacional.pemex.com
+autodiscover.pemex.com
+cp-gdl.pemex.com
+deco.pemex.com
+extranetpep.pemex.com
+otds.pemex.com
+www2012.pemex.com
+stprm-prestamos.pemex.com
+cp-mex1.pemex.com
+witsml.pemex.com
+pemex.com
+api.gasbienestar.pemex.com
+cp-coa.pemex.com
+siav.pemex.com
+colabora.pemex.com
+agvh.siav.gslb.pemex.com
+api-cloud.pemex.com
+sufeprd.pemex.com
+talentohumano.pemex.com
+correo.pemex.com
+digital-des.pemex.com
+www.comercialrefinacion.pemex.com
+guiapemex.pemex.com
+integraexpq4.pemex.com
+estilos.pemex.com
+legacy.pemex.com
+www.siomap.pemex.com
+www.pemex.com
+sisca.pemex.com
+coot.pemex.com
+cp-vhr.pemex.com
+api-cloud-qa.pemex.com
+contactocombustible.pemex.com
+aplicaciones.pemex.com
+agmx.siav.gslb.pemex.com
+otdsdes.pemex.com
+errornormalizado.pemex.com
+apical.pemex.com
+reset.pemex.com
+otdsqa.pemex.com
+witsmlsec.pemex.com
+integraexpp5.pemex.com
+www.gasbienestar.pemex.com
+www.convol.pemex.com
+www.pemexlogistica.pemex.com
+digital.pemex.com
+apicomercializadores-cal.pemex.com
+ebdi.pemex.com
+oficinadigital.pemex.com
+
+Job finished in 41 seconds.
+
+Good luck Hax0r 💀!
+
+----------------------------------------
+[DNSMAP - Subdominios Detectados]
+dnsmap 0.36 - DNS Network Mapper
+
+[+] searching (sub)domains for pemex.com using built-in wordlist
+[+] using maximum random delay of 10 millisecond(s) between requests
+
+blog.pemex.com
+IP address #1: 200.23.91.78
+
+blogs.pemex.com
+IP address #1: 200.23.91.26
+
+ca.pemex.com
+IP address #1: 200.23.91.62
+
+email.pemex.com
+IPv6 address #1: 2801:c4:98::c817:5b05
+
+email.pemex.com
+IP address #1: 200.23.91.5
+
+eventos.pemex.com
+IP address #1: 200.23.91.34
+
+ir.pemex.com
+IP address #1: 200.23.91.94
+
+owa.pemex.com
+IPv6 address #1: 2603:1036:311:823::2
+IPv6 address #2: 2603:1036:311:c03::2
+IPv6 address #3: 2603:1036:311:822::2
+IPv6 address #4: 2603:1036:311:1002::2
+
+owa.pemex.com
+IP address #1: 40.99.247.18
+IP address #2: 40.99.249.66
+IP address #3: 40.99.247.34
+IP address #4: 52.96.47.82
+
+ri.pemex.com
+IP address #1: 200.23.91.94
+
+search.pemex.com
+IP address #1: 200.23.91.26
+
+tv.pemex.com
+IP address #1: 200.23.91.227
+
+www.pemex.com
+IPv6 address #1: 2801:c4:98::c817:5b14
+
+www.pemex.com
+IP address #1: 200.23.91.20
+
+www3.pemex.com
+IPv6 address #1: 2801:c4:98::c817:5b2b
+
+www3.pemex.com
+IP address #1: 200.23.91.43
+
+[+] 16 (sub)domains and 22 IP address(es) found
+[+] completion time: 102 second(s)
+[Escaneo DNS con dnsrecon]
+[*] 	 SOA a1-68.akam.net 193.108.91.68
+[*] 	 SOA a1-68.akam.net 2600:1401:2::44
+[*] 	 NS a20-67.akam.net 95.100.175.67
+[*] 	 NS a20-67.akam.net 2a02:26f0:67::43
+[*] 	 NS a1-68.akam.net 193.108.91.68
+[*] 	 NS a1-68.akam.net 2600:1401:2::44
+[*] 	 NS a7-64.akam.net 23.61.199.64
+[*] 	 NS a7-64.akam.net 2600:1406:32::40
+[*] 	 NS a18-66.akam.net 95.101.36.66
+[*] 	 NS a18-66.akam.net 2600:1480:4800::42
+[*] 	 NS a5-66.akam.net 95.100.168.66
+[*] 	 NS a5-66.akam.net 2600:1480:b000::42
+[*] 	 NS a12-66.akam.net 184.26.160.66
+[*] 	 NS a12-66.akam.net 2600:1480:f000::42
+[*] 	 MX pemex-com.mail.protection.outlook.com 52.101.9.14
+[*] 	 MX pemex-com.mail.protection.outlook.com 52.101.42.16
+[*] 	 MX pemex-com.mail.protection.outlook.com 52.101.8.51
+[*] 	 MX pemex-com.mail.protection.outlook.com 52.101.42.4
+[*] 	 A pemex.com 200.23.91.20
+[*] 	 TXT pemex.com google-site-verification=ISHwEmA3TCA5q-qRYZXLcQRahFyPg9T1p929TeHdziwhFyPg9T1p929TeHdziw
+[*] 	 TXT pemex.com v=spf1 include:spf1.pemex.com include:spf2.pemex.com include:spf.protection.outlook.com include:_spf.google.com ~all
+[*] 	 TXT pemex.com google-site-verification=NObyGdjkIv0Rhi6BADcsSYyETtFbWceNqR8Ebaxqw7A
+[*] 	 TXT pemex.com fSHVs2u9ZSfKCv4O1p4gL5XJtODUVzy3YPpQyctR1gcRmJTGOZ2tMD83rjIzSjKH7nx9he/+03ZJk8rGt2TqYA==
+[*] 	 TXT pemex.com MS=ms13272953
+[*] 	 TXT _dmarc.pemex.com v=DMARC1;p=quarantine;adkim=s;aspf=s;fo=1;ri=3600;pct=100;rua=mailto:seguridad.incidentes@pemex.com;ruf=mailto:seguridad.incidentes@pemex.com
+[*] Enumerating SRV Records
+[+] 	 SRV _sipfederationtls._tcp.pemex.com sipfed.online.lync.com 52.112.127.17 5061
+[+] 	 SRV _xmpp-server._tcp.pemex.com sipmx.pemex.com 200.188.13.145 5269
+[+] 	 SRV _xmpp-server._tcp.pemex.com sipmx.pemex.com 200.23.91.144 5269
+[+] 	 SRV _autodiscover._tcp.pemex.com correo.pemex.com 200.23.91.90 443
+----------------------------------------
+[Resolución inversa (PTR)]
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+----------------------------------------
+[Escaneo de Puertos con Nmap]
+Ejecutando escaneo Nmap (versión limitada para evitar bloqueos)...
+Not shown: 1000 filtered tcp ports (no-response)
+----------------------------------------
+[Monitoreo con EtherApe]
+EtherApe ha estado ejecutándose con PID: 5668
+----------------------------------------
