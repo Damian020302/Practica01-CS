@@ -43,19 +43,6 @@ Name Servers:
 
 DNSSEC DS Records:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----------------------------------------
 [Prueba de conectividad (Ping)]
 PING ipn.mx (20.64.80.120) 56(84) bytes of data.
@@ -891,17 +878,8 @@ inventario.dev.ipn.mx
 fmsa.cca.ipn.mx
 envivo.ipn.mx
 www.summit.dfie.ipn.mx
-[91m
-                 ____        _     _ _     _   _____
-                / ___| _   _| |__ | (_)___| |_|___ / _ __
-                \___ \| | | | '_ \| | / __| __| |_ \| '__|
-                 ___) | |_| | |_) | | \__ \ |_ ___) | |
-                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
-    
 
 Target ==> ipn.mx
-
-
 
 saed.des.ipn.mx
 sistemas.upiicsa.ipn.mx
@@ -1226,10 +1204,6 @@ www.bicentenario.ipn.mx
 examenentrenamiento.ipn.mx
 www.appliedmath.ipn.mx
 www.tramites.egresados.ipn.mx
-
-Job finished in 33 seconds.
-
-Good luck Hax0r 💀!
 
 ----------------------------------------
 [DNSMAP - Subdominios Detectados]

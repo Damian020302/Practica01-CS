@@ -44,19 +44,6 @@ Name Servers:
 
 DNSSEC DS Records:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----------------------------------------
 [Prueba de conectividad (Ping)]
 Pérdida de paquetes: %
@@ -554,17 +541,8 @@ www.consultorio.acatic.gob.mx
 cpcalendars.acatic.gob.mx
 wsm.aefcm.gob.mx
 monitoreoideragobags.aguascalientes.gob.mx
-[91m
-                 ____        _     _ _     _   _____
-                / ___| _   _| |__ | (_)___| |_|___ / _ __
-                \___ \| | | | '_ \| | / __| __| |_ \| '__|
-                 ___) | |_| | |_) | | \__ \ |_ ___) | |
-                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
-    
 
 Target ==> gob.mx
-
-
 
 gitlab.cetechihuahua.gob.mx
 rupa.gob.mx
@@ -2994,10 +2972,6 @@ www.qsso.fone.sep.gob.mx
 innovacion.sec.gob.mx
 calimaya.gob.mx
 coatlandelrio.gob.mx
-
-Job finished in 128 seconds.
-
-Good luck Hax0r 💀!
 
 ----------------------------------------
 [DNSMAP - Subdominios Detectados]

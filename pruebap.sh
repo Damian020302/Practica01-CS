@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Para compilar se tiene que pasar "./pruebap.sh -domonio-"
+# Para compilar se tiene que pasar "./pruebap.sh <domonio/IP>"
 
 # Verificar que se proporcione un dominio o IP como argumento
 if [ -z "$1" ]; then
